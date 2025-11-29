@@ -1,0 +1,2001 @@
+customer_id,age,gender,location,income_level,signup_date,loyalty_program,preferred_channel
+C00001,58,M,North Judithbury,low,2022-09-20,1,Online
+C00002,32,M,Lake Curtis,medium,2020-12-12,0,Both
+C00003,45,M,New Roberttown,low,2023-02-24,0,Online
+C00004,50,Other,East William,low,2020-05-25,0,Both
+C00005,59,Other,Lake Debra,medium,2020-02-11,0,Offline
+C00006,55,F,Robinsonshire,high,2022-04-26,0,Online
+C00007,62,F,Port Lindachester,low,2021-03-08,0,Online
+C00008,66,F,Ericmouth,low,2021-06-12,1,Online
+C00009,40,F,South Colinstad,medium,2020-06-07,0,Both
+C00010,47,Other,Lindsaymouth,low,2022-07-26,1,Online
+C00011,53,F,South Christianport,high,2022-04-13,1,Both
+C00012,30,Other,Barbaraland,low,2023-07-12,0,Offline
+C00013,23,M,Port Keith,high,2020-03-12,1,Offline
+C00014,47,Other,Port Craig,high,2020-05-03,0,Offline
+C00015,40,M,Reidstad,medium,2021-03-07,0,Both
+C00016,58,M,Michaelview,medium,2020-09-09,0,Online
+C00017,47,F,New Cynthiaside,low,2022-12-26,0,Both
+C00018,38,M,East Steven,low,2023-02-06,0,Offline
+C00019,43,F,Lake Mark,low,2021-02-23,1,Online
+C00020,59,F,East Lydiamouth,low,2023-04-08,1,Online
+C00021,34,M,Carlshire,low,2021-09-15,1,Both
+C00022,55,F,Jasonfort,high,2023-09-23,1,Offline
+C00023,32,M,Thomasberg,medium,2021-09-06,0,Online
+C00024,25,M,Juliechester,medium,2021-01-18,1,Both
+C00025,22,F,Coxberg,low,2023-10-26,1,Both
+C00026,34,Other,Daviston,high,2022-03-02,0,Both
+C00027,64,M,East Courtneychester,medium,2023-08-30,1,Both
+C00028,39,M,South Patrickmouth,low,2022-07-15,0,Offline
+C00029,18,Other,Tashatown,high,2022-04-01,1,Both
+C00030,66,M,Lake Nicoleview,medium,2022-11-22,0,Both
+C00031,37,Other,Danielchester,medium,2023-04-08,0,Online
+C00032,41,M,Smithview,medium,2020-09-02,0,Both
+C00033,38,F,New Rita,low,2022-02-16,1,Offline
+C00034,33,M,Meaganhaven,low,2023-09-14,0,Online
+C00035,64,F,East Nathaniel,high,2022-08-04,0,Online
+C00036,60,F,New Mariotown,high,2020-09-07,0,Offline
+C00037,51,Other,Natashaport,medium,2020-06-22,0,Both
+C00038,66,Other,East Natalieland,medium,2021-01-06,1,Offline
+C00039,60,Other,Cabreraside,low,2020-05-13,1,Online
+C00040,33,M,East Donna,low,2023-04-04,0,Both
+C00041,53,M,West Allison,medium,2022-05-04,0,Online
+C00042,63,Other,Brandtside,low,2022-07-31,0,Online
+C00043,39,M,Lake Larry,medium,2023-03-19,1,Both
+C00044,49,M,Samuelhaven,medium,2022-11-09,1,Online
+C00045,68,F,East Jeffreymouth,high,2021-12-02,0,Online
+C00046,24,Other,New Jeffrey,medium,2020-02-02,1,Offline
+C00047,47,Other,East Carloston,low,2020-04-20,0,Online
+C00048,43,Other,Chadbury,low,2023-08-28,0,Online
+C00049,30,M,Lewisberg,medium,2021-03-08,0,Offline
+C00050,29,F,Sanchezfort,medium,2023-01-28,0,Offline
+C00051,69,Other,Leeville,low,2023-06-08,0,Online
+C00052,66,M,Gomezchester,low,2022-10-20,1,Offline
+C00053,31,F,Lake Deniseville,high,2021-12-26,0,Offline
+C00054,18,F,Chandlerville,low,2020-04-04,1,Offline
+C00055,45,Other,East Amanda,high,2021-01-21,1,Online
+C00056,30,F,Whitemouth,low,2020-08-05,0,Both
+C00057,65,Other,South Lindseyside,low,2021-01-23,1,Online
+C00058,21,Other,Lake Yvettetown,medium,2020-06-01,0,Online
+C00059,50,M,East Richard,high,2020-05-24,0,Both
+C00060,22,Other,Port Richard,high,2022-01-17,1,Online
+C00061,54,M,South Aaron,medium,2020-04-01,0,Both
+C00062,23,F,Saramouth,medium,2021-08-29,1,Offline
+C00063,31,Other,Hortonside,medium,2021-03-19,0,Offline
+C00064,43,M,Mooreport,medium,2022-10-25,1,Offline
+C00065,38,M,New Jillton,low,2020-12-04,0,Online
+C00066,52,M,Brianshire,medium,2023-03-07,0,Offline
+C00067,22,M,North Susan,low,2022-01-10,0,Offline
+C00068,52,Other,North Brooke,low,2020-05-04,0,Both
+C00069,70,Other,South David,low,2022-11-14,0,Online
+C00070,34,M,New Brooke,high,2023-10-15,0,Offline
+C00071,36,Other,South Dianeshire,low,2022-08-20,1,Online
+C00072,61,Other,Sarahborough,high,2022-03-23,1,Offline
+C00073,21,M,Johnfurt,medium,2022-11-06,1,Online
+C00074,18,F,Stephenland,medium,2020-07-22,1,Online
+C00075,65,F,Howellshire,medium,2020-01-15,1,Both
+C00076,18,M,New Jasonview,low,2020-06-04,0,Both
+C00077,20,F,Nicolebury,medium,2020-07-24,0,Offline
+C00078,26,M,Ericside,low,2021-07-28,0,Offline
+C00079,31,Other,Cherylhaven,low,2022-12-28,0,Offline
+C00080,67,Other,Sarahville,high,2020-01-13,1,Both
+C00081,65,M,West Darrell,high,2023-12-29,0,Online
+C00082,69,M,West Juan,high,2020-06-15,0,Online
+C00083,65,F,Jamesview,medium,2020-11-23,1,Both
+C00084,65,M,Kington,low,2022-02-24,0,Offline
+C00085,20,F,Calderonton,low,2020-05-23,1,Offline
+C00086,37,M,Kellieview,low,2020-01-06,0,Offline
+C00087,39,F,Arnoldchester,high,2020-09-08,1,Offline
+C00088,59,Other,North Charlesberg,low,2022-05-21,1,Online
+C00089,25,F,Port Mikeside,low,2022-04-27,1,Online
+C00090,24,Other,Andersonport,medium,2020-08-18,1,Offline
+C00091,56,Other,West Jasonbury,low,2021-07-20,0,Offline
+C00092,20,Other,West Kimberlychester,medium,2022-11-02,0,Offline
+C00093,45,M,East Michelle,high,2022-08-22,1,Both
+C00094,38,Other,South Angel,high,2023-05-27,1,Both
+C00095,37,Other,Kimberlychester,medium,2023-02-18,1,Both
+C00096,36,Other,West Erik,low,2023-05-31,1,Both
+C00097,42,Other,South Monicafort,medium,2022-12-25,0,Both
+C00098,54,F,Port Samantha,medium,2020-12-11,0,Offline
+C00099,36,M,Loribury,medium,2021-06-27,1,Offline
+C00100,46,F,Lake Jamesmouth,medium,2020-12-12,1,Both
+C00101,28,Other,Port Joshuahaven,low,2021-03-08,1,Online
+C00102,70,M,Sheilaville,medium,2021-09-12,0,Online
+C00103,27,M,Gregoryview,low,2023-09-24,1,Both
+C00104,67,M,New Ryanmouth,medium,2020-02-29,0,Both
+C00105,62,F,South Rachelborough,medium,2021-11-08,0,Online
+C00106,59,Other,Lake Ryanhaven,low,2021-01-30,0,Offline
+C00107,32,M,West Ryan,high,2023-12-08,1,Online
+C00108,53,M,Cindyville,high,2022-10-28,0,Offline
+C00109,26,F,Williamchester,medium,2023-01-23,1,Offline
+C00110,57,Other,Terryside,high,2021-05-21,1,Both
+C00111,46,M,South Elizabeth,medium,2020-07-16,1,Offline
+C00112,34,M,New Ashley,high,2021-08-11,1,Both
+C00113,49,Other,West Justinchester,low,2021-09-22,1,Online
+C00114,63,F,Stevenmouth,low,2023-05-05,1,Offline
+C00115,52,M,New Thomas,low,2022-11-15,0,Offline
+C00116,62,M,Lake Christopher,medium,2023-10-31,0,Offline
+C00117,44,F,Clarencebury,medium,2022-03-11,1,Online
+C00118,31,F,Jeffreyborough,low,2022-11-11,0,Both
+C00119,42,F,North Johnfort,low,2020-08-16,1,Offline
+C00120,66,F,South Robertshire,high,2022-08-07,1,Both
+C00121,65,Other,Snyderbury,medium,2020-10-29,0,Offline
+C00122,32,F,Port Michelleville,medium,2020-08-17,0,Offline
+C00123,39,Other,Robinsonhaven,medium,2023-04-24,1,Both
+C00124,28,F,New Johnville,high,2021-12-22,0,Offline
+C00125,55,Other,Port Steven,medium,2021-12-10,0,Both
+C00126,45,M,Stephaniemouth,high,2022-04-05,0,Online
+C00127,34,F,Rivasside,low,2022-08-09,1,Offline
+C00128,39,F,Lake Michelle,low,2021-11-23,1,Offline
+C00129,23,F,Karenview,low,2021-11-30,0,Offline
+C00130,32,Other,Simsview,low,2023-04-04,0,Online
+C00131,33,M,Lake Justinview,high,2021-11-14,0,Online
+C00132,26,F,Patricialand,medium,2021-06-05,0,Offline
+C00133,62,F,East Patrick,medium,2020-08-02,0,Both
+C00134,56,Other,North Robert,medium,2020-08-25,0,Offline
+C00135,24,Other,Perryborough,low,2021-05-29,1,Both
+C00136,61,F,Priceshire,low,2023-07-17,0,Online
+C00137,55,Other,Port Nicoleshire,high,2022-12-16,0,Online
+C00138,62,F,Smithstad,high,2021-08-13,0,Both
+C00139,68,M,Castanedachester,low,2021-04-08,1,Both
+C00140,41,M,South Jeffrey,medium,2022-04-16,1,Online
+C00141,44,F,Johnsonmouth,low,2021-11-08,1,Both
+C00142,47,Other,Ramseymouth,low,2022-11-05,0,Both
+C00143,51,Other,New Amanda,low,2023-11-29,1,Offline
+C00144,45,Other,Vargastown,medium,2023-11-09,1,Online
+C00145,23,F,Taylormouth,high,2020-05-10,0,Offline
+C00146,54,Other,West Nicholasborough,medium,2020-10-09,1,Online
+C00147,49,F,Matthewfurt,low,2021-12-07,0,Offline
+C00148,69,F,Kingland,low,2021-03-08,1,Both
+C00149,18,Other,Lake Amberstad,high,2021-12-31,0,Online
+C00150,64,F,Port Susanton,medium,2020-12-14,0,Both
+C00151,48,Other,East Jamestown,medium,2023-03-17,1,Online
+C00152,23,F,East David,low,2022-08-23,0,Offline
+C00153,60,Other,New Staciemouth,low,2022-11-05,1,Offline
+C00154,65,Other,Katieburgh,low,2022-12-22,1,Offline
+C00155,37,F,Port Loriport,low,2022-07-30,0,Offline
+C00156,25,Other,West Barbarafurt,medium,2020-06-16,0,Online
+C00157,31,Other,North Brittany,medium,2021-09-08,1,Online
+C00158,30,F,North Heidi,low,2023-07-14,0,Offline
+C00159,18,Other,Port Tonyaton,medium,2021-04-13,1,Online
+C00160,21,Other,Stanleyland,low,2021-06-23,0,Both
+C00161,66,F,Alexanderchester,low,2022-02-24,0,Both
+C00162,36,F,Garciastad,medium,2023-07-01,1,Online
+C00163,21,F,Zimmermanchester,high,2022-09-14,1,Online
+C00164,70,M,Christinaside,medium,2020-09-30,0,Both
+C00165,58,Other,Marshallshire,low,2023-04-18,0,Both
+C00166,37,M,Melissaland,high,2021-02-20,0,Both
+C00167,66,F,Sanchezmouth,medium,2021-03-09,0,Both
+C00168,42,F,Rogersfort,high,2022-06-04,1,Both
+C00169,45,F,Hunterborough,medium,2023-08-14,0,Both
+C00170,65,M,Matthewview,high,2021-07-05,0,Both
+C00171,31,F,New Stacyland,medium,2022-05-13,0,Online
+C00172,29,Other,Freemanbury,low,2021-01-09,0,Offline
+C00173,46,Other,Brewerfort,medium,2022-12-08,1,Online
+C00174,32,F,North Kellyfurt,medium,2021-11-27,1,Online
+C00175,61,M,West Elizabeth,high,2022-12-10,0,Offline
+C00176,25,Other,Transtad,low,2021-07-27,0,Offline
+C00177,70,M,Michaelmouth,low,2021-10-22,0,Offline
+C00178,56,Other,Johnville,high,2021-02-24,1,Offline
+C00179,25,F,West David,medium,2023-01-25,1,Offline
+C00180,50,Other,East Javier,medium,2022-04-12,0,Both
+C00181,20,F,Jennyhaven,medium,2022-01-22,1,Online
+C00182,23,M,Tinaborough,high,2022-07-16,0,Both
+C00183,70,F,West Harry,medium,2021-04-05,0,Offline
+C00184,51,Other,West Brandon,medium,2020-01-22,1,Online
+C00185,55,F,Heidiberg,medium,2020-03-25,1,Online
+C00186,48,F,Garciatown,medium,2022-09-17,1,Both
+C00187,24,M,Taylormouth,low,2022-06-10,1,Offline
+C00188,60,F,North Johnny,high,2021-06-13,0,Offline
+C00189,23,F,Wilsonland,low,2023-08-31,0,Offline
+C00190,50,M,Joneston,medium,2021-09-14,1,Offline
+C00191,21,M,Port Anna,medium,2020-08-23,1,Both
+C00192,46,M,East Davidchester,low,2021-04-16,0,Offline
+C00193,46,Other,Port Alexandra,medium,2022-07-30,0,Both
+C00194,56,M,Evansshire,medium,2021-11-30,1,Both
+C00195,18,Other,Ashleyton,medium,2021-10-28,0,Online
+C00196,47,M,Port Jaredborough,medium,2022-08-05,0,Offline
+C00197,63,F,East Johnside,medium,2021-02-15,1,Offline
+C00198,48,F,North Ricky,low,2020-04-26,0,Offline
+C00199,30,Other,Carterbury,medium,2022-12-06,0,Online
+C00200,35,F,Jacquelinemouth,low,2021-03-23,1,Online
+C00201,36,Other,West Kristin,low,2020-04-20,1,Online
+C00202,46,Other,South Danny,medium,2022-08-28,1,Both
+C00203,66,Other,West Margaret,low,2020-12-15,1,Online
+C00204,62,M,East Laurashire,medium,2020-04-20,0,Offline
+C00205,20,F,Scottmouth,medium,2023-12-02,1,Offline
+C00206,60,Other,Hollyview,high,2022-12-05,1,Online
+C00207,26,Other,Kimton,high,2022-02-16,1,Online
+C00208,46,M,Navarroview,medium,2023-10-13,1,Online
+C00209,64,M,East Suzanneshire,medium,2020-02-10,0,Online
+C00210,48,F,Port Emilyview,low,2022-07-01,1,Both
+C00211,23,F,Port Katelynfort,high,2022-06-14,1,Offline
+C00212,58,Other,Moonburgh,high,2022-03-17,1,Both
+C00213,20,Other,Waltersfort,low,2022-06-28,1,Online
+C00214,65,M,Baileymouth,medium,2020-05-21,0,Both
+C00215,63,M,Port Eugenechester,medium,2021-05-13,1,Online
+C00216,20,F,Robertsfurt,medium,2022-12-13,1,Offline
+C00217,41,F,South Christopherview,low,2023-06-17,1,Both
+C00218,61,M,Port Richardhaven,low,2021-05-17,0,Both
+C00219,42,Other,Lake Mollymouth,medium,2023-07-05,1,Both
+C00220,27,M,East Aprilfort,medium,2021-10-03,1,Offline
+C00221,34,Other,Wolfborough,low,2022-08-29,1,Offline
+C00222,61,Other,West Samuel,low,2021-02-18,1,Offline
+C00223,55,F,Martinezbury,medium,2022-12-20,1,Both
+C00224,34,F,West Andrea,high,2023-01-07,0,Offline
+C00225,48,M,Davisville,low,2022-05-07,1,Both
+C00226,36,Other,Lake Marilynfort,low,2021-12-17,1,Offline
+C00227,18,Other,Williamview,high,2023-12-19,0,Both
+C00228,65,F,Bairdbury,high,2021-10-07,1,Online
+C00229,56,F,South James,low,2021-12-10,0,Both
+C00230,34,Other,Port Chad,medium,2022-07-20,0,Both
+C00231,24,Other,Morganhaven,medium,2023-04-15,1,Offline
+C00232,20,Other,West Jessicashire,low,2021-02-19,0,Online
+C00233,36,F,Grimesmouth,medium,2022-06-19,0,Online
+C00234,26,Other,Reedside,high,2022-04-16,1,Both
+C00235,50,F,Gibsonmouth,high,2023-03-31,1,Offline
+C00236,69,F,Lake John,medium,2023-09-12,1,Online
+C00237,47,M,Port Kimberly,low,2021-08-17,0,Both
+C00238,64,Other,Juliefurt,high,2020-03-08,1,Online
+C00239,68,F,South Tammie,low,2021-08-22,0,Offline
+C00240,41,Other,Mollymouth,medium,2020-07-15,1,Both
+C00241,42,Other,Smithberg,high,2020-06-03,0,Both
+C00242,32,F,North Terrance,low,2021-09-28,1,Both
+C00243,32,Other,Cindyfurt,low,2021-02-15,1,Both
+C00244,37,Other,Port Markside,medium,2022-10-06,0,Online
+C00245,20,F,Courtneyfort,high,2021-08-13,0,Online
+C00246,33,Other,New Caseyport,low,2023-09-17,1,Offline
+C00247,60,Other,South Tiffanyville,medium,2020-12-19,1,Both
+C00248,65,Other,Lake Kevin,low,2021-11-20,1,Both
+C00249,24,F,West Lauraport,medium,2020-02-14,1,Online
+C00250,62,F,Ryanbury,low,2021-07-10,1,Online
+C00251,41,M,Knightburgh,high,2022-04-05,1,Both
+C00252,59,F,North Chelsea,low,2020-09-21,1,Online
+C00253,25,F,South Roberta,low,2021-08-17,0,Both
+C00254,58,Other,South Dana,high,2020-08-10,0,Offline
+C00255,33,M,Elizabethmouth,medium,2021-12-14,0,Online
+C00256,66,Other,Ericaburgh,low,2023-10-31,0,Online
+C00257,39,M,Landryshire,medium,2020-04-24,0,Offline
+C00258,27,M,Vaughnmouth,medium,2021-04-09,0,Online
+C00259,60,M,Jamesfurt,low,2023-08-06,1,Online
+C00260,55,F,Rodriguezfurt,low,2023-08-18,1,Online
+C00261,26,Other,Baileyport,medium,2022-06-07,0,Both
+C00262,22,F,Hillshire,medium,2020-02-04,1,Both
+C00263,55,M,New Julieport,medium,2023-09-05,0,Both
+C00264,20,Other,New Laurie,medium,2023-04-20,1,Offline
+C00265,59,M,New John,low,2020-12-06,1,Offline
+C00266,45,Other,Lake Colton,low,2023-03-19,1,Online
+C00267,23,F,West Kristinaton,medium,2022-09-01,0,Online
+C00268,35,Other,Jessicaland,medium,2022-06-19,1,Offline
+C00269,56,Other,Markchester,low,2023-11-14,1,Online
+C00270,68,Other,East Kristin,low,2020-09-29,0,Offline
+C00271,46,M,Alyssaview,medium,2023-09-23,1,Offline
+C00272,44,Other,West Robin,low,2023-07-14,1,Offline
+C00273,60,F,Juliemouth,low,2022-01-18,0,Both
+C00274,48,M,South Sydneyberg,low,2023-06-03,0,Online
+C00275,45,M,Port Erica,medium,2023-03-17,1,Online
+C00276,53,M,Coffeyside,medium,2022-11-13,1,Both
+C00277,25,F,Port Ralphview,low,2021-07-22,1,Both
+C00278,21,F,South Miguelview,medium,2022-04-13,1,Online
+C00279,54,Other,Carsonstad,low,2022-06-27,1,Online
+C00280,24,F,South Angel,high,2020-06-17,1,Online
+C00281,66,F,Rosebury,medium,2023-10-05,1,Both
+C00282,67,Other,Lake Madisonport,medium,2022-10-03,0,Both
+C00283,60,Other,Wilsonton,low,2022-10-05,0,Offline
+C00284,62,F,Wendyville,high,2020-02-27,1,Online
+C00285,29,M,New Derek,medium,2020-05-30,1,Online
+C00286,27,Other,Ellenside,medium,2021-12-05,0,Online
+C00287,65,Other,South Diana,low,2021-10-13,1,Offline
+C00288,39,M,Gilbertview,low,2023-07-19,1,Both
+C00289,56,M,Jeffmouth,high,2020-02-20,0,Online
+C00290,66,Other,Corystad,low,2021-01-01,0,Offline
+C00291,46,Other,Bruceview,medium,2022-04-25,1,Offline
+C00292,35,M,Port Madisonland,medium,2020-10-21,0,Offline
+C00293,45,M,Lake Danielle,low,2022-10-26,1,Both
+C00294,60,F,Port Matthewberg,low,2020-02-03,1,Both
+C00295,21,M,North Maria,low,2023-05-07,0,Online
+C00296,66,F,New Jason,low,2022-05-10,0,Online
+C00297,49,Other,West Kim,medium,2023-09-13,0,Offline
+C00298,52,Other,West Micheleberg,low,2023-05-10,1,Online
+C00299,43,Other,Laurenville,low,2020-07-20,0,Offline
+C00300,22,F,East Alexisbury,medium,2022-10-23,1,Both
+C00301,58,F,Alfredview,low,2022-07-03,1,Online
+C00302,38,M,Lake Robert,high,2020-03-22,1,Both
+C00303,41,M,South Shanestad,medium,2020-06-25,0,Online
+C00304,45,Other,South Williamton,medium,2022-03-08,0,Offline
+C00305,37,Other,Stephentown,low,2023-02-03,1,Online
+C00306,22,Other,Boonechester,medium,2020-04-04,0,Offline
+C00307,40,Other,South Jennifermouth,high,2022-12-01,0,Online
+C00308,24,M,West Charleneland,low,2020-04-24,0,Both
+C00309,27,Other,Claudiashire,low,2020-07-15,1,Offline
+C00310,66,Other,Oscarhaven,medium,2022-05-01,1,Both
+C00311,54,Other,Wagnerchester,medium,2021-04-03,1,Both
+C00312,38,M,Port Dianaside,medium,2020-06-03,1,Offline
+C00313,58,F,South Shannon,medium,2023-01-24,0,Offline
+C00314,50,M,Morganmouth,low,2020-12-20,1,Online
+C00315,21,F,Blairmouth,high,2021-09-11,0,Both
+C00316,23,Other,Elizabethstad,medium,2021-10-24,1,Offline
+C00317,55,Other,Jonesland,high,2020-08-25,0,Offline
+C00318,69,Other,Davisstad,medium,2020-05-24,1,Both
+C00319,48,Other,New Brian,low,2023-06-15,0,Offline
+C00320,24,F,Elizabethchester,high,2022-05-22,0,Both
+C00321,59,M,Parrishton,low,2021-07-03,1,Offline
+C00322,51,Other,Michaelshire,medium,2021-03-22,1,Offline
+C00323,36,F,East Diane,medium,2022-02-27,1,Both
+C00324,56,M,West Meganstad,medium,2020-12-14,1,Online
+C00325,39,M,Audreychester,medium,2020-06-27,1,Offline
+C00326,34,Other,New Sarahview,high,2023-08-05,0,Offline
+C00327,23,Other,West Jacqueline,medium,2020-02-14,1,Offline
+C00328,59,Other,Michaelburgh,medium,2021-04-24,0,Both
+C00329,63,M,New Diane,low,2023-09-13,1,Both
+C00330,68,F,Lake Cynthia,high,2020-04-18,0,Both
+C00331,60,F,Lake Alyssafurt,medium,2020-02-17,0,Offline
+C00332,37,M,Petersonstad,high,2021-10-14,1,Offline
+C00333,30,M,Kimberlyshire,high,2021-04-29,0,Online
+C00334,36,M,North Ericton,medium,2022-07-15,0,Both
+C00335,39,Other,West Scottchester,low,2022-11-12,1,Online
+C00336,28,M,Perryborough,high,2022-01-24,0,Both
+C00337,46,M,West Russellport,medium,2023-03-18,0,Offline
+C00338,57,F,Roseport,medium,2022-11-19,1,Online
+C00339,52,M,South Tracey,low,2020-03-11,1,Online
+C00340,41,Other,East Kevinborough,high,2020-03-26,1,Offline
+C00341,67,F,Port Jonathan,medium,2023-04-07,1,Online
+C00342,70,M,North Tylerchester,high,2021-05-24,0,Offline
+C00343,21,Other,South Amanda,medium,2020-09-29,1,Both
+C00344,24,Other,Charleston,high,2020-12-23,0,Offline
+C00345,23,M,South Samanthamouth,low,2021-11-08,0,Offline
+C00346,23,M,Berrychester,high,2022-06-13,1,Online
+C00347,44,M,South Andrewmouth,low,2021-03-25,1,Online
+C00348,42,M,Collierstad,low,2020-09-23,0,Offline
+C00349,24,Other,Richardbury,medium,2020-05-16,0,Online
+C00350,20,F,Warrenfurt,high,2021-11-07,1,Both
+C00351,26,Other,Juliebury,medium,2023-09-14,0,Online
+C00352,19,F,North William,low,2021-06-01,0,Both
+C00353,64,Other,Port Michael,medium,2020-06-26,0,Offline
+C00354,33,F,East Curtis,low,2023-02-03,0,Offline
+C00355,58,Other,East Carrie,medium,2021-02-01,0,Offline
+C00356,56,Other,East Stephaniefort,low,2023-03-26,0,Both
+C00357,27,F,Maldonadoshire,medium,2021-12-21,1,Online
+C00358,54,F,Michellemouth,low,2022-09-25,0,Both
+C00359,41,M,Jonesmouth,high,2020-08-22,0,Offline
+C00360,48,M,Laurashire,medium,2022-09-07,1,Offline
+C00361,65,M,Williamport,low,2020-03-28,0,Offline
+C00362,33,Other,Johnsonstad,medium,2021-12-18,0,Both
+C00363,65,F,Chaseland,low,2023-07-15,1,Both
+C00364,39,Other,Fordside,low,2022-08-13,1,Both
+C00365,48,Other,South Reginashire,low,2023-05-15,0,Online
+C00366,63,F,West Cassidy,low,2022-10-09,0,Online
+C00367,68,M,North Shannon,high,2022-02-17,1,Offline
+C00368,50,F,Toniland,high,2023-06-13,1,Offline
+C00369,20,Other,North John,low,2022-02-22,1,Online
+C00370,59,F,Warrenburgh,low,2021-11-11,1,Offline
+C00371,43,Other,Samanthafurt,medium,2021-07-19,1,Offline
+C00372,29,F,Erikaton,medium,2021-09-27,1,Both
+C00373,35,M,Cameronville,medium,2023-05-11,0,Offline
+C00374,56,M,Mitchellberg,medium,2022-05-16,1,Online
+C00375,23,F,New Elizabethstad,medium,2021-06-01,1,Offline
+C00376,56,Other,Andersonland,medium,2021-04-26,1,Offline
+C00377,46,M,Schneidermouth,medium,2021-04-25,1,Both
+C00378,45,F,Lake Jacqueline,medium,2023-06-17,0,Online
+C00379,60,Other,Lake Ellenhaven,medium,2023-02-21,0,Online
+C00380,27,Other,West Kyleborough,medium,2021-07-16,1,Online
+C00381,26,M,Leeberg,low,2021-06-14,1,Offline
+C00382,42,Other,West Meganville,low,2020-08-28,0,Both
+C00383,46,F,Lake Matthewberg,low,2022-02-27,0,Both
+C00384,26,Other,Mooreburgh,low,2022-07-16,1,Both
+C00385,35,M,Lake Samuel,high,2023-07-15,0,Both
+C00386,29,F,Ericabury,medium,2021-09-30,0,Offline
+C00387,67,F,Karenmouth,medium,2021-11-21,0,Both
+C00388,36,Other,West Tammy,high,2020-12-29,1,Online
+C00389,25,M,Mckeeborough,high,2023-05-03,1,Online
+C00390,63,F,Murrayport,high,2021-07-25,1,Both
+C00391,40,Other,Shawchester,low,2023-04-23,1,Offline
+C00392,28,Other,Port Cassandra,medium,2020-09-08,0,Offline
+C00393,50,M,Brettfort,low,2023-09-18,0,Online
+C00394,33,F,Angelaville,low,2023-09-19,1,Offline
+C00395,69,Other,West Christopherburgh,low,2023-01-10,0,Online
+C00396,37,F,Whiteheadberg,high,2021-02-27,1,Both
+C00397,44,F,Davisbury,high,2023-07-14,0,Online
+C00398,38,Other,Wilkersontown,low,2023-06-22,1,Both
+C00399,51,F,South Waynebury,low,2021-10-06,0,Online
+C00400,45,Other,West Jeffreymouth,high,2021-08-22,0,Online
+C00401,51,M,Port Jennifermouth,low,2023-12-16,0,Offline
+C00402,63,M,East Benjamin,low,2023-05-14,1,Online
+C00403,34,M,Hortonberg,medium,2023-11-26,1,Online
+C00404,58,F,Westtown,medium,2023-03-24,0,Both
+C00405,59,M,North Jonathanberg,medium,2023-11-08,0,Online
+C00406,60,Other,Rodriguezport,medium,2022-05-02,1,Both
+C00407,20,M,Davidbury,low,2021-01-04,1,Both
+C00408,31,Other,Brownfort,medium,2021-10-14,0,Offline
+C00409,58,Other,Lake Zacharybury,low,2022-07-16,1,Offline
+C00410,33,Other,West Ruben,medium,2023-01-21,1,Online
+C00411,62,M,Johnchester,low,2022-08-13,1,Offline
+C00412,47,M,New Theresaland,low,2020-10-17,0,Offline
+C00413,63,F,South Morganton,medium,2022-03-28,1,Offline
+C00414,26,F,Zavalaview,medium,2022-09-14,0,Offline
+C00415,33,F,West Kristinastad,low,2023-03-06,1,Online
+C00416,27,M,Port Bonniemouth,low,2021-01-09,1,Both
+C00417,44,M,West Amyburgh,high,2020-07-26,0,Offline
+C00418,54,Other,Pollardfort,low,2023-07-13,0,Offline
+C00419,50,F,Port Dennis,medium,2022-09-08,1,Offline
+C00420,19,M,Johnsonborough,high,2023-01-17,1,Online
+C00421,31,Other,North Leslie,low,2020-03-09,0,Offline
+C00422,49,Other,Haysside,high,2021-04-26,1,Offline
+C00423,52,M,Benjaminborough,high,2022-01-05,1,Online
+C00424,34,Other,Michelleton,low,2021-03-20,1,Offline
+C00425,20,F,Joshuastad,low,2023-09-06,0,Offline
+C00426,53,F,Paulfurt,low,2021-11-09,1,Both
+C00427,35,Other,South Heather,medium,2021-06-10,0,Online
+C00428,24,F,Lauriechester,low,2021-07-24,1,Both
+C00429,41,M,Morrisonburgh,low,2020-05-02,1,Both
+C00430,20,M,Manuelland,low,2022-04-27,1,Offline
+C00431,51,F,Kirkchester,low,2021-05-24,0,Offline
+C00432,57,F,Bellton,low,2020-09-15,1,Both
+C00433,39,Other,Christinachester,high,2023-02-03,1,Both
+C00434,54,F,North Emilyfurt,medium,2021-03-02,0,Offline
+C00435,39,Other,North Douglas,low,2021-07-18,1,Both
+C00436,37,Other,Johnsonland,high,2022-08-01,0,Both
+C00437,48,F,Michaelshire,high,2021-01-01,0,Both
+C00438,21,Other,Lake Shannon,medium,2020-02-20,1,Online
+C00439,70,Other,Scottland,low,2021-07-30,0,Online
+C00440,19,F,New Michael,low,2022-06-10,0,Offline
+C00441,62,M,Johnville,medium,2021-05-03,1,Both
+C00442,64,M,South April,medium,2020-02-10,0,Both
+C00443,38,Other,West Kimberlymouth,medium,2023-11-20,1,Offline
+C00444,29,F,Heatherfort,high,2020-11-29,1,Both
+C00445,40,Other,East Melissamouth,medium,2020-11-06,1,Both
+C00446,48,M,Osbornmouth,high,2020-09-25,1,Both
+C00447,37,M,Jennaside,high,2022-11-03,1,Offline
+C00448,63,M,Patriciaburgh,medium,2022-04-22,1,Offline
+C00449,48,F,Port Michael,medium,2023-01-10,1,Offline
+C00450,25,Other,East Laurabury,medium,2020-12-14,1,Offline
+C00451,70,F,Johnsonside,high,2023-05-12,0,Offline
+C00452,20,F,Tannerside,high,2022-06-08,0,Offline
+C00453,46,Other,North Kylefort,low,2020-07-20,1,Online
+C00454,30,Other,Hammondshire,low,2022-03-27,1,Online
+C00455,24,Other,West Dawn,medium,2020-04-24,0,Online
+C00456,21,Other,Frazierstad,high,2021-11-30,0,Both
+C00457,32,M,Port Tammy,low,2020-07-18,1,Both
+C00458,48,M,Port Davidberg,medium,2021-11-03,0,Online
+C00459,53,M,East Marcus,medium,2021-04-17,1,Offline
+C00460,59,M,West Stacey,medium,2023-01-06,1,Offline
+C00461,36,Other,Meghanview,low,2022-03-17,0,Both
+C00462,54,M,Davidport,medium,2020-10-31,0,Online
+C00463,44,M,New Danielleshire,high,2022-08-12,0,Offline
+C00464,68,F,East Donna,low,2022-06-21,1,Online
+C00465,18,F,Meganshire,medium,2023-01-24,0,Offline
+C00466,36,F,North Brandonshire,high,2020-03-04,1,Online
+C00467,50,F,Port Ashley,low,2021-02-15,0,Offline
+C00468,28,Other,South Pamelaside,medium,2022-08-18,1,Both
+C00469,29,M,Timothyfurt,medium,2021-03-25,1,Both
+C00470,61,M,Joneston,low,2021-04-07,1,Offline
+C00471,50,F,Perrymouth,low,2020-09-02,0,Online
+C00472,26,F,Catherinemouth,low,2020-11-12,0,Online
+C00473,34,F,Jessicastad,low,2023-08-31,1,Offline
+C00474,37,Other,Port Mitchell,medium,2021-09-11,0,Offline
+C00475,59,F,West Johnville,medium,2022-05-22,0,Both
+C00476,25,F,Wrightville,low,2021-02-19,1,Both
+C00477,50,Other,Soniachester,medium,2020-03-19,0,Both
+C00478,36,F,Port Mark,medium,2021-01-20,0,Online
+C00479,48,M,Jamesburgh,medium,2022-06-16,1,Offline
+C00480,62,Other,Jimenezport,high,2022-02-13,0,Online
+C00481,61,Other,North Sierrahaven,high,2022-02-11,0,Both
+C00482,46,Other,East Brandy,medium,2021-12-11,0,Both
+C00483,25,M,West Troyfort,high,2020-03-16,0,Both
+C00484,52,M,Port Danielberg,low,2021-03-19,1,Online
+C00485,61,M,Jessicafurt,medium,2023-10-02,1,Online
+C00486,50,F,South Brettside,high,2021-07-22,1,Online
+C00487,50,F,Angelaland,medium,2020-10-29,0,Both
+C00488,47,Other,Duranview,high,2021-08-23,0,Offline
+C00489,34,M,East Theresafurt,medium,2023-07-06,0,Online
+C00490,45,F,Angelastad,medium,2021-08-02,0,Online
+C00491,48,M,East Carrie,low,2023-03-18,0,Online
+C00492,67,Other,North Benjaminmouth,high,2021-09-15,1,Offline
+C00493,42,F,Stoneberg,high,2023-06-02,1,Offline
+C00494,23,Other,West Sarah,high,2022-07-30,0,Both
+C00495,40,M,South Vicki,low,2021-05-09,1,Both
+C00496,26,Other,Brittneyhaven,high,2023-02-22,0,Online
+C00497,37,F,Ericksonport,medium,2023-07-10,1,Both
+C00498,42,M,West Markville,low,2022-01-07,1,Online
+C00499,35,M,Lauratown,high,2021-10-09,0,Online
+C00500,69,Other,Bakershire,medium,2022-07-16,0,Online
+C00501,31,M,Lake Brett,low,2022-06-16,0,Offline
+C00502,56,Other,New Cristina,medium,2022-01-16,0,Online
+C00503,65,M,Hernandezbury,medium,2022-08-20,0,Both
+C00504,31,M,East Andrewmouth,low,2020-02-19,1,Online
+C00505,70,Other,South Hannah,medium,2021-10-12,1,Online
+C00506,37,M,Salaston,high,2021-09-29,0,Offline
+C00507,37,F,New Jared,low,2023-01-01,0,Both
+C00508,61,F,Foxmouth,medium,2021-05-19,0,Offline
+C00509,59,Other,Barrmouth,low,2020-09-26,1,Both
+C00510,44,F,Ericaview,low,2022-04-28,1,Online
+C00511,66,Other,Leebury,medium,2022-08-05,0,Offline
+C00512,63,M,Jeffreyport,high,2021-03-09,0,Both
+C00513,44,F,Janetfort,medium,2023-04-12,0,Offline
+C00514,33,F,Baileyview,low,2021-05-07,0,Offline
+C00515,41,M,New Ericafurt,medium,2021-03-23,0,Online
+C00516,35,F,Cardenasberg,medium,2023-10-23,0,Online
+C00517,30,Other,West Stephanieland,medium,2021-03-27,0,Offline
+C00518,31,F,Douglasfort,low,2021-06-22,0,Online
+C00519,30,Other,Port Amanda,low,2020-11-28,1,Online
+C00520,62,Other,Derrickshire,medium,2023-12-20,1,Online
+C00521,53,F,North Elizabeth,medium,2021-01-06,1,Offline
+C00522,52,Other,Lake Jesse,low,2022-04-04,1,Offline
+C00523,50,F,Riverafort,medium,2020-06-04,1,Offline
+C00524,31,F,North Tamara,low,2020-06-05,0,Both
+C00525,32,Other,South Denise,low,2023-12-14,1,Both
+C00526,55,Other,Woodsborough,medium,2023-09-30,1,Online
+C00527,30,F,Manuelton,low,2023-03-20,0,Offline
+C00528,53,Other,Lake Audreyside,high,2023-11-11,1,Offline
+C00529,66,F,East Robertburgh,high,2023-02-21,1,Offline
+C00530,28,Other,Port Randyfort,medium,2023-12-21,0,Online
+C00531,64,Other,Nancytown,medium,2020-10-16,0,Both
+C00532,20,M,West Justinside,high,2021-04-08,0,Online
+C00533,44,M,Smallberg,high,2022-03-25,0,Online
+C00534,63,M,Nelsonville,low,2023-08-15,1,Offline
+C00535,21,Other,Lake Stephen,medium,2021-05-28,1,Both
+C00536,49,M,North Jill,low,2021-02-03,1,Online
+C00537,19,Other,Ashleyborough,medium,2023-05-13,1,Online
+C00538,50,Other,Wilcoxhaven,medium,2020-09-29,0,Online
+C00539,24,Other,South Elizabethburgh,low,2021-05-24,0,Both
+C00540,51,F,Morrisbury,high,2020-08-06,1,Offline
+C00541,23,F,Patrickmouth,high,2020-01-11,1,Both
+C00542,33,Other,Stephanieport,low,2023-03-16,0,Both
+C00543,59,M,West Desireebury,low,2022-06-23,1,Offline
+C00544,53,F,South Kurtfurt,low,2020-04-06,0,Both
+C00545,28,M,Hannahport,medium,2022-12-01,1,Both
+C00546,68,F,East Susan,medium,2021-07-24,0,Both
+C00547,20,M,South Julie,low,2022-01-12,1,Offline
+C00548,20,M,Robertside,medium,2022-07-29,1,Both
+C00549,54,Other,Toddborough,low,2023-11-18,1,Online
+C00550,31,Other,Lake Karen,low,2023-03-29,1,Online
+C00551,37,M,New Seanstad,medium,2023-09-18,1,Both
+C00552,52,F,North Mariahaven,low,2020-05-01,0,Both
+C00553,64,M,East Mark,medium,2020-11-10,1,Online
+C00554,24,F,Wilsonborough,low,2022-03-19,0,Offline
+C00555,56,Other,Davishaven,high,2023-01-18,1,Offline
+C00556,19,Other,South Davidchester,low,2021-11-23,1,Offline
+C00557,32,F,New Stevenport,medium,2021-12-10,1,Offline
+C00558,29,Other,South Jonathantown,medium,2023-01-28,1,Online
+C00559,67,Other,New Charles,low,2023-03-04,0,Both
+C00560,22,M,Isabellaside,low,2021-10-20,1,Both
+C00561,68,Other,South Anthonychester,low,2020-04-03,1,Offline
+C00562,41,M,Port Darlene,low,2020-10-06,1,Offline
+C00563,41,F,Brooksfurt,low,2023-02-06,0,Online
+C00564,45,F,Bennettside,medium,2021-11-27,1,Online
+C00565,19,M,Davidside,low,2020-07-25,0,Both
+C00566,56,F,Lake Tiffany,high,2021-09-02,0,Offline
+C00567,44,F,Port Andrewport,medium,2023-07-20,0,Both
+C00568,51,M,Patelbury,medium,2021-12-20,0,Online
+C00569,35,F,Reedview,low,2021-01-19,0,Online
+C00570,28,F,North Lisachester,low,2020-10-19,1,Offline
+C00571,68,M,East Jamieville,low,2022-08-13,0,Both
+C00572,58,F,South Carlaton,medium,2022-07-11,0,Offline
+C00573,24,M,South Scottside,low,2021-01-15,1,Offline
+C00574,57,F,East Williamport,high,2020-12-03,1,Offline
+C00575,39,F,Barbaramouth,high,2020-12-29,0,Offline
+C00576,38,Other,Nancyhaven,high,2021-01-03,0,Offline
+C00577,38,M,Turnerton,high,2020-12-09,1,Offline
+C00578,65,Other,Lake Erika,medium,2022-05-14,0,Offline
+C00579,42,F,Williamsstad,high,2022-05-13,1,Offline
+C00580,25,Other,Floydmouth,low,2022-09-26,0,Both
+C00581,67,Other,Russellport,low,2022-12-17,1,Both
+C00582,31,F,Port Amanda,medium,2021-08-07,0,Offline
+C00583,61,F,West Meredith,low,2021-01-09,1,Online
+C00584,34,Other,Melendezside,low,2020-08-12,1,Offline
+C00585,22,F,Grantberg,high,2021-10-03,1,Both
+C00586,43,Other,West James,medium,2021-08-26,1,Both
+C00587,20,F,South Melanieland,medium,2022-10-01,0,Online
+C00588,67,M,North Joseph,medium,2022-04-12,1,Online
+C00589,59,Other,Port Charlesshire,low,2022-11-12,1,Offline
+C00590,68,F,South Jason,low,2023-01-30,0,Offline
+C00591,32,Other,Kevintown,medium,2023-11-10,0,Offline
+C00592,41,F,Lake David,medium,2020-11-25,0,Offline
+C00593,19,F,Rochaborough,low,2023-03-17,1,Online
+C00594,25,Other,New Marc,low,2021-09-08,1,Offline
+C00595,47,M,Owensstad,medium,2021-03-15,1,Offline
+C00596,24,F,Michaelfort,medium,2021-04-24,1,Offline
+C00597,22,F,Port Tinafort,low,2021-12-24,0,Online
+C00598,39,Other,Robinstad,low,2023-03-29,0,Both
+C00599,33,Other,Williamsbury,low,2021-05-01,0,Offline
+C00600,53,F,North Jose,high,2023-02-25,0,Offline
+C00601,58,M,Phillipsborough,low,2023-12-23,1,Offline
+C00602,19,Other,South Ashley,medium,2021-05-27,0,Offline
+C00603,55,F,Piercemouth,low,2021-01-16,0,Online
+C00604,35,Other,Levyfort,high,2021-02-03,0,Both
+C00605,24,Other,Lake Laura,low,2021-12-16,1,Online
+C00606,47,M,Lake Amy,low,2020-09-19,1,Both
+C00607,58,F,New Arthurland,medium,2020-10-12,1,Both
+C00608,25,F,Port Adamberg,low,2023-06-24,1,Both
+C00609,29,Other,North Jasmine,medium,2023-08-01,1,Both
+C00610,55,M,New Stephen,medium,2020-01-15,1,Online
+C00611,33,F,Hopkinstown,low,2020-04-03,1,Both
+C00612,27,Other,Smithhaven,low,2020-01-11,0,Both
+C00613,42,F,Amandaport,low,2023-01-26,0,Both
+C00614,28,F,Drakeburgh,low,2020-01-27,0,Offline
+C00615,46,Other,New Eduardoborough,low,2020-06-15,1,Online
+C00616,49,M,Lisaview,low,2022-08-20,1,Both
+C00617,50,Other,Millerfurt,medium,2023-05-19,1,Offline
+C00618,63,F,Lake Jeremiah,medium,2021-12-14,0,Both
+C00619,19,M,Lake Victoriaton,low,2022-11-28,1,Online
+C00620,52,F,Grayside,low,2020-05-25,1,Both
+C00621,65,F,Lake Albertburgh,medium,2022-01-09,0,Both
+C00622,25,F,Brucemouth,medium,2020-05-08,1,Both
+C00623,70,M,New Samanthabury,medium,2022-05-29,1,Both
+C00624,31,F,Nelsonland,low,2020-11-24,0,Offline
+C00625,20,F,Rachelshire,low,2022-11-29,0,Offline
+C00626,25,M,East Sarahmouth,low,2022-10-19,1,Both
+C00627,57,Other,New Douglas,medium,2020-01-25,0,Online
+C00628,70,M,Hickmanport,high,2023-06-28,1,Both
+C00629,35,Other,New Mary,medium,2020-09-09,1,Both
+C00630,36,F,Patrickberg,medium,2021-08-27,0,Online
+C00631,66,F,New Juliestad,high,2023-05-12,1,Both
+C00632,26,Other,South Jesseland,high,2020-03-24,0,Online
+C00633,63,F,Novakmouth,high,2021-06-13,1,Offline
+C00634,27,Other,Kristenmouth,medium,2020-02-16,1,Offline
+C00635,46,M,West Angela,medium,2022-02-01,0,Offline
+C00636,50,Other,Lopezshire,low,2021-08-06,1,Offline
+C00637,49,F,Millerport,medium,2022-10-23,0,Both
+C00638,47,Other,Lake Charles,medium,2023-05-24,1,Online
+C00639,68,Other,South Jennifer,low,2021-02-20,1,Online
+C00640,49,F,Lake Peter,low,2022-09-11,1,Offline
+C00641,53,Other,North Adamport,low,2021-07-14,1,Offline
+C00642,61,M,Kathleenville,low,2021-11-21,1,Online
+C00643,25,M,East Ryanside,medium,2020-07-24,0,Offline
+C00644,30,Other,Garcialand,high,2022-05-11,1,Online
+C00645,35,M,New Carlymouth,medium,2021-07-03,1,Online
+C00646,41,Other,Smithchester,high,2023-09-03,0,Online
+C00647,43,Other,Lake Rachelbury,low,2021-08-25,0,Offline
+C00648,59,M,Lake Oscar,medium,2022-06-07,0,Online
+C00649,48,M,Kevinfort,low,2020-08-03,0,Both
+C00650,61,F,East Ryanchester,low,2020-08-14,1,Online
+C00651,45,Other,Pattonstad,low,2021-04-10,0,Online
+C00652,42,M,Lake Colleen,medium,2021-01-26,0,Online
+C00653,38,F,South Daniel,high,2022-07-11,0,Offline
+C00654,67,M,South Martinfurt,medium,2021-04-18,0,Online
+C00655,51,Other,Scottchester,low,2023-06-03,0,Offline
+C00656,40,Other,West Malik,low,2023-06-20,0,Offline
+C00657,57,Other,South Leon,medium,2022-12-16,0,Online
+C00658,24,M,Kellyfort,medium,2021-09-10,1,Offline
+C00659,45,F,West Nicholas,medium,2022-06-13,0,Offline
+C00660,59,M,Diazshire,low,2023-06-22,1,Both
+C00661,19,Other,Lake Katrina,high,2020-11-06,0,Both
+C00662,56,Other,Hahnborough,low,2020-02-11,1,Offline
+C00663,59,M,Marieland,medium,2021-11-12,0,Offline
+C00664,42,M,Chambersberg,low,2023-06-26,0,Both
+C00665,18,F,Johnberg,high,2022-09-10,0,Offline
+C00666,54,F,Mccormickland,low,2023-01-16,0,Offline
+C00667,67,M,Aguilarside,low,2021-11-28,0,Online
+C00668,34,M,Stephensstad,low,2022-02-25,0,Offline
+C00669,50,F,North Kaylastad,medium,2022-12-25,1,Offline
+C00670,62,F,New Tonyafurt,low,2020-09-15,0,Offline
+C00671,23,F,Tammychester,low,2023-03-15,0,Online
+C00672,52,F,North Jonathanhaven,low,2020-06-13,0,Offline
+C00673,62,F,South Neil,medium,2023-03-06,0,Online
+C00674,33,M,West Whitney,high,2021-12-20,0,Offline
+C00675,57,Other,West Robertland,low,2022-01-19,0,Online
+C00676,18,Other,West Larry,low,2020-06-29,0,Online
+C00677,49,F,New Timothy,medium,2021-12-08,1,Online
+C00678,41,M,South Jennifermouth,medium,2022-01-09,1,Both
+C00679,25,M,West Bradleyville,low,2021-05-10,1,Offline
+C00680,51,M,Deborahburgh,low,2020-02-05,0,Offline
+C00681,47,Other,New Greg,low,2023-12-15,1,Both
+C00682,28,F,Anitamouth,low,2020-09-05,0,Both
+C00683,61,Other,Sotoburgh,low,2020-12-26,0,Online
+C00684,18,M,Fosterborough,low,2022-09-21,1,Offline
+C00685,27,M,Priceborough,high,2021-11-29,0,Both
+C00686,69,Other,Karenland,medium,2020-11-15,1,Online
+C00687,38,M,Port Monicaburgh,medium,2022-06-15,1,Offline
+C00688,70,M,Jamesville,medium,2021-07-22,0,Both
+C00689,61,M,Rosemouth,low,2021-02-11,0,Offline
+C00690,22,F,Carrshire,high,2022-07-16,1,Offline
+C00691,23,Other,Michaelmouth,medium,2020-06-26,1,Online
+C00692,36,Other,Port Emily,medium,2022-08-17,0,Offline
+C00693,41,Other,Samanthashire,high,2023-05-28,0,Both
+C00694,52,M,West David,low,2020-05-11,1,Online
+C00695,32,Other,East Nathanielberg,low,2021-04-19,0,Offline
+C00696,18,Other,Barnesberg,low,2022-03-04,1,Online
+C00697,31,Other,Hendersonfort,high,2022-06-11,1,Offline
+C00698,21,M,New Garrett,medium,2022-09-14,0,Online
+C00699,32,Other,East Leonard,medium,2021-03-24,1,Offline
+C00700,65,M,Port Michaeltown,medium,2021-12-01,0,Both
+C00701,70,F,East Lisa,low,2022-01-22,0,Offline
+C00702,60,M,Ortizfort,low,2022-05-22,1,Offline
+C00703,69,F,Burnsland,medium,2021-10-07,1,Offline
+C00704,46,F,Port Kathleenport,low,2022-05-28,0,Online
+C00705,67,Other,Jeffreyport,low,2020-02-20,0,Online
+C00706,46,F,Cunninghamfort,low,2020-09-18,0,Both
+C00707,40,M,New Dannyside,medium,2022-05-03,1,Offline
+C00708,25,M,Amberton,low,2023-07-02,1,Both
+C00709,62,Other,Paynechester,low,2023-03-26,1,Online
+C00710,23,Other,West Nancy,low,2020-06-08,1,Offline
+C00711,50,M,Bakerland,medium,2020-02-20,1,Online
+C00712,19,F,Port Lisaborough,high,2021-11-13,0,Online
+C00713,47,M,Michellechester,high,2023-06-13,0,Online
+C00714,18,M,Port Jamie,high,2020-09-14,0,Online
+C00715,30,F,New Michaelview,low,2020-11-17,0,Both
+C00716,55,F,West Tiffany,high,2022-07-16,0,Online
+C00717,22,M,Ashleyhaven,high,2021-03-30,1,Online
+C00718,23,F,East Sydneychester,low,2023-10-30,1,Online
+C00719,28,Other,West Michelleberg,medium,2023-11-28,1,Offline
+C00720,19,F,East Dustin,medium,2022-12-25,0,Offline
+C00721,31,M,Port Megan,low,2021-05-15,1,Online
+C00722,20,Other,Thomasview,medium,2021-09-02,0,Both
+C00723,36,F,Brooksland,medium,2022-09-02,1,Online
+C00724,23,F,South Zacharyview,low,2022-09-11,1,Online
+C00725,59,Other,Shawnfort,low,2022-12-15,0,Offline
+C00726,68,Other,Port Kimland,low,2021-05-23,1,Offline
+C00727,54,Other,Reidstad,low,2023-02-09,1,Online
+C00728,19,F,Port Amandaborough,medium,2023-08-13,0,Offline
+C00729,21,F,South Joseph,medium,2021-10-29,0,Online
+C00730,24,M,Matthewshire,medium,2023-07-10,1,Both
+C00731,70,Other,Kramerton,low,2020-07-21,0,Both
+C00732,69,F,Lake Kristenmouth,low,2020-03-12,0,Online
+C00733,33,Other,Port Ericmouth,low,2020-01-26,1,Both
+C00734,19,Other,Harrisberg,medium,2020-01-02,0,Both
+C00735,30,F,Erikview,medium,2023-10-02,0,Offline
+C00736,20,M,Johnstad,low,2020-05-24,0,Online
+C00737,51,F,North Randy,low,2022-10-29,0,Online
+C00738,39,Other,South Diana,low,2021-04-19,1,Online
+C00739,19,M,North Jasonland,medium,2022-12-29,0,Online
+C00740,51,F,New Erin,high,2020-07-25,1,Both
+C00741,60,F,Lake Matthewville,medium,2020-01-15,1,Offline
+C00742,38,M,Bensonfort,high,2023-08-29,1,Both
+C00743,49,Other,South Christopher,low,2020-04-20,1,Online
+C00744,60,Other,North Lawrenceport,high,2023-06-06,1,Offline
+C00745,64,Other,Ayalaberg,low,2020-08-01,0,Both
+C00746,18,Other,North Alyssa,high,2022-09-23,1,Both
+C00747,20,M,South Michael,medium,2020-01-14,0,Both
+C00748,54,M,South Christina,high,2020-11-26,0,Offline
+C00749,65,M,North Peggy,low,2021-11-18,1,Online
+C00750,58,M,New Jessicastad,high,2020-08-05,1,Offline
+C00751,18,F,Kyliebury,low,2021-10-29,0,Offline
+C00752,34,M,East Angelaport,medium,2021-03-06,0,Offline
+C00753,46,Other,Port Melanieport,medium,2023-04-25,0,Offline
+C00754,49,F,Lake Peter,low,2020-11-15,1,Online
+C00755,48,Other,Port Rachaelbury,medium,2022-09-30,0,Online
+C00756,46,M,Rodriguezfort,medium,2022-02-07,0,Offline
+C00757,19,F,New Pamelatown,low,2022-09-18,0,Online
+C00758,39,M,Davidshire,high,2021-07-14,0,Both
+C00759,22,Other,Amyburgh,high,2021-10-15,0,Offline
+C00760,56,Other,Bestland,high,2023-03-30,0,Offline
+C00761,59,M,North Joseton,medium,2020-01-26,1,Online
+C00762,21,M,Port Raymondport,low,2023-12-04,0,Offline
+C00763,62,Other,Hendersonfurt,medium,2022-09-03,1,Both
+C00764,36,F,West Christopher,low,2020-05-08,0,Offline
+C00765,54,Other,Port Eric,high,2020-05-02,0,Online
+C00766,41,M,Willisland,medium,2021-05-22,1,Both
+C00767,58,Other,Blairbury,medium,2021-04-26,0,Online
+C00768,31,M,North Sandy,medium,2020-03-30,0,Offline
+C00769,25,F,Salazarton,medium,2020-06-29,1,Offline
+C00770,60,F,North Alexander,low,2021-04-25,1,Online
+C00771,41,F,East Tylerstad,low,2020-08-01,1,Online
+C00772,34,F,Garyberg,medium,2022-03-23,0,Offline
+C00773,54,M,Jessicaville,low,2023-03-10,0,Online
+C00774,60,F,West Lindsayview,high,2023-04-13,1,Both
+C00775,32,Other,West Jennifershire,low,2022-03-24,1,Both
+C00776,44,Other,South Spencerstad,medium,2022-09-01,1,Both
+C00777,33,F,Villarrealburgh,low,2020-03-27,1,Both
+C00778,20,Other,West Kerri,medium,2021-07-25,0,Online
+C00779,66,F,East Joycetown,low,2023-10-21,0,Online
+C00780,69,M,East Brandonstad,low,2020-03-09,1,Online
+C00781,61,F,East Sarah,low,2021-08-17,0,Both
+C00782,34,F,New Lindachester,high,2023-08-25,0,Online
+C00783,42,Other,Johnmouth,low,2020-12-14,1,Offline
+C00784,51,F,New Nathanhaven,high,2021-02-25,0,Both
+C00785,57,Other,East Jeffreyhaven,medium,2022-11-11,1,Online
+C00786,44,M,Jonesmouth,low,2020-03-12,0,Online
+C00787,54,M,Kiaraport,medium,2023-09-07,1,Offline
+C00788,34,F,New Stephenstad,medium,2021-05-23,1,Online
+C00789,29,F,Anneport,medium,2020-11-07,1,Online
+C00790,43,F,South Micheal,medium,2023-02-22,0,Both
+C00791,48,F,Lake Rachel,high,2022-02-05,0,Offline
+C00792,70,F,East Adam,low,2023-03-27,1,Both
+C00793,61,M,East Ambertown,high,2021-09-28,0,Online
+C00794,37,Other,Port Dianeport,medium,2021-06-04,1,Offline
+C00795,64,F,New Tonya,medium,2020-06-10,0,Online
+C00796,46,M,Woodwardberg,high,2021-10-14,1,Both
+C00797,49,Other,Christopherbury,high,2023-01-10,0,Both
+C00798,68,M,Haynesstad,low,2023-10-25,1,Online
+C00799,67,Other,New Codyberg,high,2021-12-13,0,Online
+C00800,30,M,Jonesshire,high,2022-09-16,0,Online
+C00801,47,M,Batesberg,high,2020-04-06,0,Offline
+C00802,41,F,Josemouth,medium,2021-01-02,0,Both
+C00803,19,M,Haynesmouth,low,2023-12-09,1,Online
+C00804,48,Other,Nelsonland,medium,2021-05-09,1,Online
+C00805,34,Other,Port Kayla,high,2020-11-10,0,Offline
+C00806,19,F,North Frank,low,2020-06-18,0,Online
+C00807,59,M,Richardside,medium,2021-12-24,1,Both
+C00808,44,Other,South Kyle,low,2021-07-10,0,Offline
+C00809,26,Other,North Ericport,low,2021-02-15,0,Online
+C00810,34,Other,East Marymouth,high,2023-07-07,1,Both
+C00811,63,Other,Lake Johnstad,low,2020-08-18,1,Offline
+C00812,47,F,Lake Kentburgh,low,2021-09-07,1,Both
+C00813,51,Other,Bondside,low,2020-02-18,0,Online
+C00814,50,Other,North Steven,high,2023-03-08,1,Both
+C00815,59,Other,North Alexander,medium,2023-06-02,1,Both
+C00816,24,F,East James,low,2023-07-13,1,Both
+C00817,38,F,Ginaland,low,2021-09-14,1,Online
+C00818,27,Other,Samanthaland,medium,2022-06-23,0,Both
+C00819,43,Other,East Rachelmouth,low,2020-02-03,0,Both
+C00820,19,Other,North Rebecca,medium,2023-06-11,1,Offline
+C00821,44,F,Davidmouth,low,2023-07-12,0,Both
+C00822,63,Other,New Ryan,high,2020-03-19,1,Both
+C00823,63,M,Crawfordfurt,medium,2023-01-30,1,Both
+C00824,40,Other,Thompsonborough,low,2022-11-27,0,Both
+C00825,53,M,West Joshua,low,2023-11-12,1,Online
+C00826,65,F,North Christina,medium,2023-10-04,0,Both
+C00827,39,Other,Lake Kenneth,low,2022-08-16,1,Online
+C00828,65,F,Brownview,medium,2021-10-02,1,Offline
+C00829,34,Other,South James,low,2021-08-17,0,Offline
+C00830,21,Other,Lake Virginia,medium,2023-10-06,0,Offline
+C00831,30,Other,South Kimberlystad,low,2022-04-24,1,Both
+C00832,37,F,Coopershire,low,2022-01-15,0,Online
+C00833,30,F,Paulburgh,medium,2022-02-19,1,Online
+C00834,38,Other,Carlatown,low,2020-02-10,0,Offline
+C00835,39,Other,Brianfort,high,2023-10-23,1,Both
+C00836,21,M,Katiebury,medium,2022-04-02,0,Online
+C00837,54,M,East Dianeview,medium,2020-09-04,0,Online
+C00838,57,F,Port Wendybury,medium,2022-04-09,1,Offline
+C00839,48,F,Kellyburgh,low,2022-06-13,0,Both
+C00840,41,M,New Louis,high,2020-09-30,0,Online
+C00841,61,M,Robintown,medium,2023-02-20,0,Online
+C00842,62,F,Staceyshire,low,2022-12-28,0,Offline
+C00843,50,Other,Port Vanessa,low,2020-08-08,0,Online
+C00844,37,F,Weaverburgh,medium,2023-10-01,1,Offline
+C00845,61,M,North Brianbury,low,2022-01-31,1,Offline
+C00846,66,M,Smithborough,low,2020-01-31,1,Online
+C00847,32,M,West Jennifer,medium,2023-06-06,0,Online
+C00848,64,M,Brianberg,medium,2023-11-28,0,Online
+C00849,41,Other,Port Daniel,medium,2022-06-30,0,Offline
+C00850,58,F,Susanstad,medium,2022-03-28,0,Both
+C00851,21,Other,Willismouth,low,2022-12-30,0,Online
+C00852,62,M,Derekburgh,medium,2021-04-13,1,Online
+C00853,53,F,Connerfort,medium,2023-02-11,0,Online
+C00854,62,Other,Grantside,medium,2022-10-05,1,Offline
+C00855,60,M,Jeffreyshire,medium,2022-12-13,1,Both
+C00856,56,Other,South Kurt,low,2023-06-19,0,Both
+C00857,64,Other,Davidtown,low,2022-12-05,0,Online
+C00858,49,M,Rosalesshire,medium,2022-12-26,1,Both
+C00859,30,F,New Lucas,medium,2020-02-20,1,Online
+C00860,20,Other,Lake Ariana,medium,2023-06-10,0,Both
+C00861,48,F,Taylorland,low,2023-12-26,0,Both
+C00862,23,M,Toniburgh,high,2021-01-04,1,Online
+C00863,23,Other,Port Jennamouth,low,2022-09-15,0,Offline
+C00864,59,M,West Jasonland,medium,2021-11-24,1,Offline
+C00865,47,M,Kristintown,low,2021-06-28,0,Online
+C00866,36,F,Kimchester,high,2020-03-15,1,Offline
+C00867,65,M,Snyderfurt,low,2020-09-15,0,Online
+C00868,26,Other,Garciafort,medium,2021-06-29,1,Offline
+C00869,46,Other,East Shannon,low,2023-05-10,0,Offline
+C00870,70,F,West Andrewview,low,2023-05-26,1,Offline
+C00871,47,F,West Georgefurt,high,2020-06-11,1,Offline
+C00872,59,M,New Shellyland,low,2020-09-06,0,Online
+C00873,24,F,Bushchester,high,2021-06-08,1,Both
+C00874,61,F,New Pamela,low,2022-10-12,1,Offline
+C00875,57,M,North Markborough,high,2020-09-01,0,Offline
+C00876,49,M,Donnaport,high,2021-09-27,1,Online
+C00877,22,F,North Philipside,medium,2021-01-04,0,Both
+C00878,61,Other,Hernandezstad,medium,2023-07-28,0,Both
+C00879,39,Other,Millerfort,medium,2020-01-06,0,Offline
+C00880,60,Other,North Jamieport,low,2020-11-06,1,Both
+C00881,61,Other,Anthonyport,low,2020-05-07,0,Online
+C00882,59,M,Ruizview,medium,2023-05-04,1,Offline
+C00883,28,M,Lopezfurt,medium,2020-05-21,1,Online
+C00884,39,F,South Bradley,low,2021-07-27,0,Both
+C00885,59,F,Bakerview,medium,2021-11-14,0,Online
+C00886,47,F,East Karenville,high,2022-05-26,1,Online
+C00887,49,F,Lindseychester,low,2020-05-13,1,Both
+C00888,59,M,New Bruce,low,2023-03-21,1,Online
+C00889,53,Other,Sheppardfort,low,2021-08-24,0,Both
+C00890,57,Other,South Kent,low,2022-06-08,0,Both
+C00891,60,F,New Ashleyhaven,high,2021-09-05,1,Online
+C00892,70,M,North Stacy,high,2023-05-28,1,Both
+C00893,67,Other,East Teresa,medium,2021-11-28,1,Both
+C00894,46,M,East Brad,low,2023-06-09,0,Online
+C00895,39,F,Harrisberg,high,2020-05-01,1,Both
+C00896,51,F,Luisland,medium,2023-07-19,0,Online
+C00897,49,M,Hawkinsside,high,2020-05-15,1,Online
+C00898,34,Other,Apriltown,low,2021-05-21,0,Offline
+C00899,31,F,Rodriguezberg,high,2023-05-06,0,Both
+C00900,39,M,North Annaville,medium,2020-08-18,0,Both
+C00901,61,Other,Mikaylastad,low,2023-05-05,1,Offline
+C00902,60,Other,Bakerfort,high,2023-09-25,0,Offline
+C00903,18,Other,Johnsonview,medium,2022-06-07,1,Both
+C00904,48,Other,New Charlotte,medium,2021-09-17,0,Both
+C00905,55,M,Williamsmouth,medium,2022-12-13,0,Online
+C00906,42,Other,North Julie,medium,2022-12-08,1,Both
+C00907,42,F,Pennytown,high,2023-12-01,0,Offline
+C00908,43,F,Larryfort,high,2021-06-08,1,Online
+C00909,26,F,Port Jeremyport,medium,2023-08-26,1,Both
+C00910,53,F,Schroedermouth,medium,2023-03-01,0,Online
+C00911,31,Other,Jacobsland,medium,2021-02-22,1,Both
+C00912,26,Other,Lewischester,medium,2020-10-18,0,Both
+C00913,52,Other,Malonestad,medium,2023-02-25,0,Offline
+C00914,53,F,New Laceyland,medium,2023-06-29,1,Both
+C00915,65,Other,Taylorhaven,low,2021-04-28,1,Online
+C00916,51,M,East Jamesborough,low,2023-09-27,0,Online
+C00917,60,M,East Antonioton,low,2023-07-24,0,Offline
+C00918,61,F,Janetview,low,2023-11-27,0,Both
+C00919,68,F,Wagnerville,low,2021-07-26,0,Offline
+C00920,70,F,East Nathanmouth,low,2022-11-24,0,Both
+C00921,59,Other,Matthewsstad,low,2020-10-02,1,Both
+C00922,60,M,Port Patricia,high,2021-06-18,1,Offline
+C00923,68,Other,West Anthonyton,low,2023-03-09,0,Online
+C00924,65,F,Port Jeffrey,low,2020-09-10,1,Online
+C00925,58,Other,West Denise,medium,2020-12-15,1,Both
+C00926,52,Other,Port Kimberlytown,medium,2022-03-08,0,Offline
+C00927,46,M,Lake Glen,high,2022-01-06,0,Online
+C00928,29,Other,East Johnnyport,medium,2023-05-29,1,Online
+C00929,45,F,Rodneyfurt,medium,2023-01-12,0,Online
+C00930,55,F,Stephenborough,low,2023-08-15,1,Both
+C00931,27,M,Ericafurt,low,2021-12-25,1,Both
+C00932,21,Other,North Williamstad,medium,2022-06-26,1,Offline
+C00933,68,Other,Kennethville,medium,2022-05-22,0,Both
+C00934,38,Other,West Vanessamouth,low,2022-01-18,0,Both
+C00935,22,Other,Joseport,low,2023-08-31,1,Online
+C00936,40,M,New Kathy,high,2020-10-19,1,Offline
+C00937,41,F,Port Meredithfurt,low,2023-10-29,1,Both
+C00938,70,Other,Erintown,low,2022-10-23,1,Offline
+C00939,33,Other,Brightview,medium,2022-10-15,0,Online
+C00940,61,F,Sullivanton,low,2023-11-09,0,Offline
+C00941,34,Other,West Jessica,medium,2022-06-24,0,Both
+C00942,70,F,Knoxstad,medium,2020-12-11,1,Offline
+C00943,20,F,Meganside,high,2022-02-27,0,Offline
+C00944,50,M,Connorberg,high,2020-10-08,0,Both
+C00945,52,M,Jessicaside,medium,2023-02-24,0,Both
+C00946,58,M,Lake Rachel,high,2023-03-31,1,Online
+C00947,31,Other,East Michaelport,high,2022-10-13,1,Both
+C00948,70,M,Nathanshire,medium,2021-10-15,0,Online
+C00949,47,Other,Yorkfort,low,2021-04-01,0,Online
+C00950,21,M,South Pamelahaven,medium,2020-03-24,0,Both
+C00951,70,M,Morenochester,high,2020-07-05,1,Offline
+C00952,46,Other,East Victoria,medium,2020-03-24,1,Online
+C00953,42,Other,Benitezmouth,low,2021-06-16,0,Both
+C00954,64,Other,Michelleburgh,low,2020-08-10,0,Both
+C00955,22,F,South Marvinburgh,high,2023-04-25,0,Offline
+C00956,68,Other,North Shannonborough,low,2021-05-01,0,Offline
+C00957,66,F,New Kathy,low,2023-03-28,0,Offline
+C00958,28,Other,East Christinachester,low,2022-01-30,1,Both
+C00959,36,Other,Sanfordfurt,low,2021-09-18,1,Online
+C00960,53,Other,New Jamesstad,low,2020-01-08,0,Online
+C00961,54,Other,Katherinehaven,low,2020-01-22,0,Offline
+C00962,31,Other,Lake Adambury,medium,2020-10-23,1,Online
+C00963,44,Other,Larryville,high,2020-12-17,0,Online
+C00964,29,M,Garyton,medium,2021-08-18,1,Online
+C00965,25,M,Stephenhaven,medium,2021-04-08,0,Both
+C00966,47,Other,Ryanberg,medium,2022-07-15,1,Both
+C00967,22,F,Howardborough,low,2021-06-16,1,Offline
+C00968,40,M,Smithbury,medium,2020-09-13,0,Online
+C00969,36,Other,East Jessica,low,2023-02-03,0,Offline
+C00970,49,F,North Michael,low,2022-07-05,1,Both
+C00971,55,M,South Nancyview,medium,2022-10-07,1,Offline
+C00972,45,M,New Virginiaville,low,2023-04-13,0,Online
+C00973,63,Other,North Hannahchester,medium,2022-10-12,1,Offline
+C00974,26,Other,Martinezview,medium,2021-11-21,1,Offline
+C00975,46,F,East Heather,medium,2022-01-06,1,Both
+C00976,24,M,West Robertville,medium,2022-09-06,0,Offline
+C00977,70,M,Cindyberg,high,2022-10-26,0,Offline
+C00978,64,Other,New Jenniferville,low,2021-10-12,0,Online
+C00979,50,Other,Port Danielborough,low,2021-03-15,1,Both
+C00980,31,M,Port Jose,medium,2022-08-04,1,Both
+C00981,67,M,West Jade,low,2022-03-23,0,Both
+C00982,64,F,North Amy,low,2021-04-03,0,Offline
+C00983,41,Other,Lake Sarah,low,2023-11-15,0,Both
+C00984,61,M,North Alexander,medium,2021-05-28,0,Offline
+C00985,28,M,Port Audreyfort,medium,2020-05-18,0,Both
+C00986,64,F,Port Williamville,high,2020-08-19,0,Online
+C00987,66,F,Dawnmouth,low,2023-11-06,1,Offline
+C00988,32,M,Stevenville,medium,2021-04-04,1,Offline
+C00989,48,F,Port Benjamin,high,2023-06-17,0,Both
+C00990,38,M,Lauriemouth,medium,2021-03-27,1,Both
+C00991,34,Other,North Melissaton,medium,2021-10-23,0,Offline
+C00992,59,F,Lake Deborah,low,2020-01-16,0,Both
+C00993,34,F,Patriciaview,high,2021-05-25,0,Both
+C00994,43,F,West Lisaburgh,high,2023-09-26,1,Offline
+C00995,68,F,Rossmouth,high,2020-06-25,0,Both
+C00996,26,F,Vaughnfort,low,2021-02-26,0,Both
+C00997,59,F,Banksburgh,low,2023-05-27,0,Online
+C00998,41,Other,Lake Jessica,medium,2020-06-24,0,Both
+C00999,32,F,North Robert,high,2023-08-04,0,Offline
+C01000,61,F,Phammouth,medium,2022-07-06,0,Both
+C01001,44,M,Maxwelltown,low,2020-10-08,0,Both
+C01002,55,M,South Samantha,low,2023-09-01,0,Both
+C01003,27,M,Alexanderland,low,2020-06-24,0,Both
+C01004,43,Other,Alexanderhaven,high,2021-02-10,0,Both
+C01005,64,Other,Lake Morgan,high,2023-04-07,0,Online
+C01006,46,Other,South Dorothybury,high,2022-03-17,1,Online
+C01007,32,F,Elizabethfurt,medium,2022-01-18,0,Both
+C01008,60,Other,North Dawnburgh,low,2020-08-18,1,Offline
+C01009,56,Other,Christianburgh,low,2022-02-24,1,Offline
+C01010,26,M,Floresmouth,low,2020-04-26,1,Online
+C01011,56,M,New Jeffreyfurt,low,2021-03-08,0,Both
+C01012,50,M,North Stephen,low,2021-09-18,0,Both
+C01013,52,M,Millerfort,high,2023-05-29,1,Both
+C01014,44,F,Davidfort,high,2021-11-25,1,Online
+C01015,69,F,North Richardton,medium,2023-03-03,1,Offline
+C01016,55,Other,Port Christopherport,high,2022-05-15,0,Offline
+C01017,26,F,Lake Emily,medium,2023-10-14,0,Online
+C01018,36,Other,Marciabury,high,2021-06-13,1,Offline
+C01019,30,M,Riverafort,medium,2023-08-04,0,Both
+C01020,51,M,Jenniferville,medium,2023-01-18,1,Both
+C01021,31,Other,North Matthew,high,2020-05-31,1,Offline
+C01022,24,M,Amystad,medium,2023-07-13,1,Offline
+C01023,52,F,North Pennyfort,medium,2022-12-26,1,Both
+C01024,43,M,Rodriguezborough,medium,2020-08-06,1,Online
+C01025,41,Other,Port Philipmouth,medium,2020-10-18,1,Offline
+C01026,54,F,Lake Matthew,medium,2023-07-04,1,Both
+C01027,26,Other,Williamsshire,low,2023-03-22,0,Offline
+C01028,68,Other,Ellisshire,high,2020-07-10,0,Online
+C01029,50,F,South Adam,medium,2022-02-22,0,Online
+C01030,42,Other,New Savannahshire,low,2023-02-17,0,Online
+C01031,48,Other,Lake Beth,medium,2022-01-20,0,Offline
+C01032,32,F,North Paul,low,2023-02-08,0,Both
+C01033,42,F,Williamfurt,medium,2022-07-21,1,Both
+C01034,56,M,West Raymond,high,2021-10-12,0,Both
+C01035,49,F,Shawnberg,low,2021-06-16,1,Online
+C01036,20,Other,Morrisonhaven,medium,2020-08-02,0,Both
+C01037,28,Other,Jenniferside,low,2021-04-09,0,Both
+C01038,18,M,East Jason,low,2022-09-09,1,Offline
+C01039,40,Other,Glendaberg,low,2023-01-14,0,Both
+C01040,18,Other,New Amy,medium,2023-01-08,0,Both
+C01041,36,Other,Jenniferstad,high,2022-09-16,1,Offline
+C01042,70,F,Aguilarchester,low,2022-05-23,0,Offline
+C01043,43,Other,Nataliechester,low,2022-11-13,0,Offline
+C01044,50,M,New Danielfurt,medium,2023-06-09,1,Offline
+C01045,25,Other,Lake Brianview,high,2020-08-13,1,Both
+C01046,46,F,West Frances,medium,2023-03-11,0,Offline
+C01047,67,F,Lake Kristenborough,medium,2020-08-15,0,Offline
+C01048,25,F,West Lisaville,low,2023-03-16,0,Both
+C01049,62,M,Lake Deborah,high,2022-08-15,1,Offline
+C01050,51,Other,New Kristen,low,2021-08-27,1,Online
+C01051,36,M,Heatherton,low,2023-05-25,1,Online
+C01052,53,M,Hughesmouth,medium,2023-12-10,1,Online
+C01053,54,F,North Juliaborough,low,2022-05-07,0,Offline
+C01054,65,M,Greerstad,low,2022-08-22,0,Offline
+C01055,31,M,Port Jenny,low,2023-03-19,0,Both
+C01056,40,M,Shaneland,medium,2020-10-27,0,Online
+C01057,61,Other,Lake Willie,medium,2020-10-17,0,Both
+C01058,20,F,South Joshuaview,low,2021-08-08,1,Offline
+C01059,54,F,New Meghan,medium,2020-07-21,1,Offline
+C01060,32,Other,Stevenberg,low,2020-01-09,1,Offline
+C01061,52,M,West Candice,medium,2020-03-03,1,Both
+C01062,67,M,Tracyshire,medium,2023-04-16,0,Both
+C01063,51,F,Charlesmouth,low,2022-05-04,0,Online
+C01064,61,M,East Abigail,low,2022-03-27,0,Offline
+C01065,41,Other,South Amy,high,2023-05-06,0,Both
+C01066,34,M,West Jeffreyborough,low,2021-09-18,1,Offline
+C01067,29,F,Markport,medium,2022-10-27,1,Both
+C01068,66,F,Barajastown,low,2020-12-05,1,Offline
+C01069,46,M,Seanbury,medium,2020-06-27,0,Online
+C01070,64,F,Patrickville,high,2020-03-02,1,Offline
+C01071,30,M,Amberport,high,2021-08-22,0,Offline
+C01072,69,M,Williehaven,low,2020-02-08,1,Online
+C01073,58,Other,Williamsborough,medium,2021-11-23,1,Offline
+C01074,37,F,North Garyside,medium,2021-05-12,0,Offline
+C01075,24,Other,Lake Cameronborough,low,2022-04-08,0,Offline
+C01076,48,Other,Houstonborough,low,2023-09-05,1,Offline
+C01077,41,F,Lucasland,medium,2022-04-15,1,Offline
+C01078,19,F,North Stephen,low,2023-03-06,0,Both
+C01079,54,Other,North Charlesburgh,medium,2021-05-30,0,Offline
+C01080,40,F,Angelashire,medium,2023-05-18,1,Both
+C01081,46,M,West Rickey,low,2023-06-30,1,Offline
+C01082,58,M,Hamiltontown,high,2021-12-01,1,Offline
+C01083,58,Other,New Adamland,medium,2021-08-28,0,Online
+C01084,28,F,Lake Melaniestad,low,2023-03-20,1,Both
+C01085,36,Other,West Kristinport,low,2023-12-12,1,Offline
+C01086,46,F,West Kathymouth,medium,2022-07-31,1,Offline
+C01087,28,M,Shorttown,high,2021-08-15,0,Both
+C01088,33,Other,New Jeffrey,low,2022-01-06,0,Online
+C01089,28,F,Roblesside,low,2023-03-06,0,Offline
+C01090,53,M,West Erica,low,2021-04-03,1,Both
+C01091,66,M,Susantown,low,2023-11-21,0,Online
+C01092,59,F,North Bobby,low,2022-05-09,0,Both
+C01093,36,F,Medinaland,medium,2022-06-08,0,Both
+C01094,28,M,Lake Judith,low,2021-04-18,1,Offline
+C01095,48,F,Jasonhaven,high,2023-02-01,1,Both
+C01096,46,M,East Jeffrey,high,2020-08-09,0,Both
+C01097,56,F,Jamesburgh,medium,2023-07-20,1,Both
+C01098,58,Other,Port Karenside,medium,2022-11-08,1,Offline
+C01099,52,M,West Emilyview,high,2021-12-17,1,Offline
+C01100,41,F,Lake Beverly,low,2020-06-01,1,Online
+C01101,18,Other,Davidbury,high,2021-05-28,0,Offline
+C01102,36,F,Christineborough,medium,2020-06-04,1,Offline
+C01103,37,M,Hayesport,medium,2021-05-08,1,Both
+C01104,32,M,New Ashley,medium,2022-12-13,0,Offline
+C01105,53,F,Susanburgh,low,2023-06-08,0,Both
+C01106,65,Other,Johnbury,low,2020-01-08,1,Online
+C01107,34,M,Hillstad,medium,2023-01-11,0,Both
+C01108,66,Other,Nataliemouth,high,2020-07-27,1,Offline
+C01109,59,Other,Kimfort,medium,2021-11-22,1,Offline
+C01110,30,M,East Debbieland,low,2022-05-06,1,Online
+C01111,58,F,Micheleberg,medium,2023-07-31,1,Both
+C01112,57,F,West Jessica,low,2023-10-16,0,Online
+C01113,21,Other,Lake Charlestown,low,2022-08-31,0,Offline
+C01114,35,M,Port Bonniefurt,medium,2023-08-12,0,Online
+C01115,23,M,North Andrea,low,2023-04-09,0,Offline
+C01116,44,F,Valdezberg,medium,2022-04-24,1,Offline
+C01117,47,Other,Walkershire,medium,2021-07-22,1,Online
+C01118,66,M,Dennishaven,low,2023-02-13,1,Online
+C01119,52,F,South Michaeltown,low,2022-03-03,1,Offline
+C01120,18,M,Port Tamara,high,2022-10-26,0,Offline
+C01121,67,F,Port Willie,low,2022-08-11,0,Online
+C01122,47,Other,East Ashley,medium,2021-11-24,0,Offline
+C01123,42,Other,Lake Jessica,high,2022-05-28,1,Online
+C01124,58,Other,Billyfort,low,2023-12-29,0,Offline
+C01125,48,Other,West Miketon,low,2020-12-26,1,Online
+C01126,60,M,New Rebecca,high,2022-11-04,0,Both
+C01127,45,F,Harrisonmouth,low,2021-07-15,1,Both
+C01128,25,F,North Tinamouth,medium,2023-10-01,0,Online
+C01129,55,Other,Maryview,medium,2020-06-09,0,Offline
+C01130,67,M,South Desiree,low,2022-06-17,1,Online
+C01131,61,Other,New Johnbury,low,2021-07-21,0,Online
+C01132,40,Other,Gomezstad,low,2022-03-13,0,Online
+C01133,49,M,Eatontown,low,2022-01-26,1,Offline
+C01134,64,M,South Gabriel,low,2022-02-18,1,Offline
+C01135,64,M,Jasonburgh,low,2020-04-29,0,Offline
+C01136,63,F,Carolynville,medium,2020-09-01,1,Online
+C01137,54,M,South Lisa,medium,2022-10-23,1,Both
+C01138,47,F,South Emmafort,high,2023-01-23,0,Online
+C01139,51,M,Lake Martha,medium,2020-11-23,1,Both
+C01140,41,F,North David,low,2020-02-04,1,Both
+C01141,29,M,East Crystal,medium,2022-07-09,1,Both
+C01142,33,F,North Gabriel,medium,2020-03-01,1,Online
+C01143,51,Other,New Susan,medium,2023-12-03,0,Both
+C01144,36,F,Lake Jessicaport,medium,2022-07-20,1,Online
+C01145,24,Other,South Catherine,medium,2020-05-13,0,Online
+C01146,29,M,Jacksonchester,low,2022-01-02,1,Online
+C01147,24,M,Port Brandi,medium,2022-07-22,1,Both
+C01148,49,Other,New Donna,medium,2023-04-07,1,Online
+C01149,41,M,Lake Gina,medium,2021-02-14,0,Online
+C01150,31,Other,Carlsonland,medium,2023-12-03,0,Offline
+C01151,69,Other,Cruzville,low,2020-12-23,1,Offline
+C01152,68,Other,New Michele,low,2020-01-26,1,Both
+C01153,20,Other,Serranoville,low,2022-02-22,1,Online
+C01154,31,Other,Valenzuelaton,low,2020-10-02,0,Both
+C01155,42,M,North Timothyberg,low,2023-09-25,0,Both
+C01156,58,M,Port Erikachester,medium,2023-11-02,1,Both
+C01157,24,Other,Woodton,medium,2022-03-21,1,Both
+C01158,60,F,Perezfort,high,2022-12-19,0,Online
+C01159,53,F,Bellshire,medium,2023-05-11,0,Both
+C01160,56,F,Andersonfort,high,2020-05-31,1,Both
+C01161,38,F,Port Christopher,medium,2023-04-04,1,Both
+C01162,38,Other,Scotttown,low,2022-07-18,0,Offline
+C01163,67,Other,New Alexandrahaven,high,2023-01-06,1,Offline
+C01164,46,F,Penamouth,high,2020-01-12,0,Both
+C01165,20,F,Danielchester,medium,2021-09-27,0,Offline
+C01166,18,F,Joseside,high,2022-10-09,0,Offline
+C01167,19,Other,Cherylfurt,high,2021-10-19,0,Online
+C01168,20,F,South Andrea,low,2023-03-18,0,Offline
+C01169,41,Other,Whiteside,low,2022-05-16,1,Offline
+C01170,23,Other,Kingport,low,2022-05-12,0,Both
+C01171,22,Other,Kimfurt,low,2022-06-16,1,Online
+C01172,49,Other,Port Michelle,medium,2023-02-16,0,Both
+C01173,59,F,South Krista,low,2020-07-03,1,Online
+C01174,67,M,East Williammouth,high,2020-09-08,1,Offline
+C01175,70,F,East Paultown,medium,2023-05-29,0,Online
+C01176,65,Other,Port Dustinchester,high,2023-06-03,0,Both
+C01177,67,Other,West Jeffreyland,low,2020-05-16,1,Both
+C01178,20,F,Lake Patrickfurt,medium,2022-08-04,0,Offline
+C01179,50,Other,Jenniferton,low,2022-08-11,0,Both
+C01180,64,F,Lake Troy,high,2023-04-16,0,Online
+C01181,45,F,Port Diane,medium,2020-01-17,0,Online
+C01182,39,M,Jameshaven,medium,2023-06-02,0,Both
+C01183,43,F,New Gavin,low,2022-03-12,1,Both
+C01184,26,M,Johntown,medium,2020-02-26,0,Offline
+C01185,43,Other,West Kimberlystad,medium,2020-09-01,0,Online
+C01186,22,F,Sullivanborough,medium,2022-11-06,1,Both
+C01187,54,M,Lake Janeland,low,2022-03-15,1,Offline
+C01188,41,F,Jessicaside,low,2022-05-03,1,Both
+C01189,59,M,Michaelview,medium,2023-11-22,0,Offline
+C01190,57,F,South Sarah,medium,2020-12-17,1,Online
+C01191,70,M,West Gregoryhaven,low,2022-06-12,1,Online
+C01192,66,Other,New Kellyville,high,2020-06-14,0,Both
+C01193,21,M,Nancyshire,high,2023-06-01,0,Offline
+C01194,18,F,Churchshire,medium,2021-01-23,0,Offline
+C01195,46,F,Port Matthew,low,2022-01-21,0,Both
+C01196,52,M,Maldonadoshire,low,2023-04-19,1,Both
+C01197,48,Other,South Darrenland,medium,2023-09-01,0,Both
+C01198,62,Other,Lake Jacqueline,low,2021-08-17,0,Offline
+C01199,28,M,Robertstad,low,2023-05-28,1,Online
+C01200,47,Other,Lake Marilynbury,high,2022-03-13,0,Offline
+C01201,60,F,South Emilymouth,medium,2021-03-22,1,Online
+C01202,19,F,South Lee,high,2020-04-28,1,Online
+C01203,42,Other,Ianborough,high,2020-12-05,0,Offline
+C01204,49,Other,East Jill,medium,2022-02-14,0,Online
+C01205,50,F,Jamieborough,medium,2023-09-17,0,Online
+C01206,33,Other,Port Christine,low,2023-07-21,1,Offline
+C01207,65,M,North Samanthafort,low,2020-08-30,1,Offline
+C01208,58,F,Port Mercedeston,low,2022-08-11,1,Online
+C01209,58,F,Watsonmouth,high,2023-08-10,0,Both
+C01210,35,M,Travishaven,low,2022-02-03,1,Both
+C01211,26,M,Walkershire,medium,2021-03-11,0,Offline
+C01212,33,Other,New Laurenfort,low,2020-07-18,1,Both
+C01213,39,F,New Michaelburgh,medium,2023-12-30,0,Both
+C01214,26,Other,Lake Aprilmouth,medium,2021-12-11,0,Online
+C01215,37,Other,North Emilyfurt,medium,2022-12-06,0,Offline
+C01216,67,M,West Michaelview,medium,2022-06-21,0,Offline
+C01217,22,Other,Joelfort,medium,2020-10-17,0,Online
+C01218,38,M,Michaelfort,medium,2022-08-10,1,Offline
+C01219,44,F,South Jaclyn,medium,2021-10-20,1,Online
+C01220,67,M,Melissaview,low,2021-08-01,0,Online
+C01221,66,Other,New David,medium,2021-12-01,0,Both
+C01222,32,M,Port Cory,medium,2022-06-13,1,Online
+C01223,62,F,New Ryan,low,2021-02-23,1,Both
+C01224,59,F,East Lauren,low,2021-08-14,1,Offline
+C01225,48,M,South Linda,low,2023-02-21,0,Online
+C01226,44,M,Porterhaven,high,2020-10-01,1,Online
+C01227,65,Other,Kristenport,high,2022-04-09,0,Online
+C01228,29,F,South Coreyburgh,high,2021-01-24,1,Both
+C01229,38,F,Port Jonathan,high,2020-04-03,1,Offline
+C01230,67,M,South Julieview,medium,2023-07-27,1,Both
+C01231,38,F,Annview,medium,2021-07-14,0,Both
+C01232,24,F,South Davidborough,medium,2021-06-18,0,Online
+C01233,51,Other,Port Justin,low,2022-06-15,0,Both
+C01234,42,Other,Hamptonmouth,medium,2021-05-20,0,Online
+C01235,36,F,South Christinamouth,low,2023-10-13,1,Offline
+C01236,47,M,Port Gary,medium,2022-09-08,0,Both
+C01237,51,M,Robertshire,medium,2023-06-08,1,Online
+C01238,64,Other,North Fernandobury,low,2021-09-20,0,Offline
+C01239,44,F,Deniseview,medium,2021-05-01,0,Offline
+C01240,55,Other,Nelsonmouth,high,2022-07-29,1,Online
+C01241,34,F,Juliehaven,medium,2023-04-28,0,Both
+C01242,64,M,Jacksontown,low,2021-11-30,1,Both
+C01243,41,M,Lake Johnathan,medium,2020-07-13,1,Both
+C01244,68,Other,East Garrettville,medium,2023-03-01,0,Offline
+C01245,53,F,South Amytown,low,2020-05-28,0,Offline
+C01246,54,Other,Warrenland,high,2023-04-12,0,Online
+C01247,29,Other,Christineland,low,2020-06-10,1,Offline
+C01248,64,F,Parkerbury,low,2022-10-14,0,Online
+C01249,26,M,Scottberg,low,2023-02-19,1,Online
+C01250,47,F,North Austin,high,2020-07-22,0,Both
+C01251,49,M,Michellemouth,low,2021-07-08,1,Offline
+C01252,44,F,Amyberg,low,2023-09-14,0,Online
+C01253,53,F,New Carla,medium,2022-12-19,0,Online
+C01254,29,M,Millsside,low,2022-09-07,1,Online
+C01255,27,M,Timothybury,medium,2021-04-26,1,Offline
+C01256,23,M,South Kylechester,low,2023-06-04,0,Online
+C01257,61,F,West Alex,medium,2021-02-07,0,Offline
+C01258,65,Other,West Justin,low,2022-03-23,0,Online
+C01259,67,F,Lake Sandrafort,low,2022-04-11,1,Online
+C01260,66,F,Port Russellport,high,2021-04-10,0,Offline
+C01261,48,M,Port Adrian,low,2022-07-16,1,Offline
+C01262,51,F,South Nicole,medium,2021-08-03,0,Both
+C01263,21,M,Wrightfurt,medium,2021-11-10,0,Offline
+C01264,64,Other,Walkerland,medium,2023-07-10,1,Offline
+C01265,56,F,New Kathy,low,2021-10-17,1,Online
+C01266,57,Other,Justinside,medium,2023-11-14,1,Offline
+C01267,69,M,Robertland,high,2023-06-10,0,Both
+C01268,36,M,West Daniel,low,2020-10-10,0,Offline
+C01269,58,M,Nelsonfort,medium,2021-12-08,0,Both
+C01270,44,F,Andrewton,low,2020-10-18,1,Both
+C01271,69,Other,East Teresaport,low,2022-04-11,0,Both
+C01272,36,F,Lake Samuel,medium,2021-02-22,1,Offline
+C01273,50,Other,North Edward,low,2020-01-13,0,Online
+C01274,61,F,West Robert,low,2022-02-05,0,Online
+C01275,30,F,Boltonmouth,high,2023-05-05,1,Offline
+C01276,69,M,West Christopherberg,medium,2022-12-18,1,Online
+C01277,58,F,Kimberlyland,high,2020-03-28,1,Offline
+C01278,68,F,Whiteview,high,2022-04-23,0,Both
+C01279,37,Other,Claytonville,medium,2023-06-23,1,Both
+C01280,52,M,South Kelsey,low,2023-04-08,1,Offline
+C01281,22,M,Lake Virginia,low,2021-11-19,0,Offline
+C01282,42,Other,Mossville,medium,2020-11-05,0,Both
+C01283,56,F,South Paul,low,2022-03-20,0,Offline
+C01284,63,F,Ericton,medium,2021-04-29,1,Offline
+C01285,23,F,West Timothyport,high,2023-03-02,1,Offline
+C01286,37,M,Paigeborough,medium,2020-11-04,0,Online
+C01287,41,M,Lake Ryan,medium,2020-06-24,0,Offline
+C01288,50,M,Port Joshua,medium,2020-01-24,0,Online
+C01289,39,F,Mccormicktown,medium,2020-07-04,1,Offline
+C01290,27,M,Barkerberg,high,2020-03-06,0,Online
+C01291,64,M,East Ericland,medium,2021-07-30,0,Online
+C01292,37,M,Sarahton,medium,2022-12-01,0,Offline
+C01293,47,M,Deannaside,low,2020-04-02,1,Online
+C01294,54,F,East Tonymouth,medium,2023-05-14,0,Offline
+C01295,30,M,Lindamouth,low,2022-05-17,1,Offline
+C01296,60,M,North Hannah,low,2023-02-12,0,Offline
+C01297,25,M,West Rachel,high,2021-07-10,0,Online
+C01298,52,F,Hansenside,medium,2022-01-23,1,Online
+C01299,63,F,Lopezburgh,medium,2022-12-18,0,Online
+C01300,37,Other,Mariomouth,high,2022-04-24,1,Online
+C01301,26,M,North Amanda,medium,2021-03-03,0,Online
+C01302,42,M,Loriside,low,2021-11-29,1,Online
+C01303,63,Other,Smithhaven,high,2021-07-24,1,Both
+C01304,40,F,North Christine,low,2021-08-11,0,Both
+C01305,66,Other,West Jennifer,high,2021-07-19,0,Offline
+C01306,54,M,Leefort,low,2022-10-19,1,Online
+C01307,47,F,New Justin,medium,2023-04-04,1,Offline
+C01308,32,M,Danielhaven,low,2021-09-28,1,Offline
+C01309,43,M,North Maryberg,medium,2022-10-20,1,Offline
+C01310,47,F,East Danielborough,low,2020-10-04,1,Online
+C01311,40,F,New Darlenefurt,medium,2020-06-02,0,Offline
+C01312,67,F,Foxshire,medium,2022-10-19,0,Both
+C01313,24,F,West Jeffreyland,high,2021-02-01,0,Offline
+C01314,53,Other,Lake Travis,low,2020-01-21,1,Both
+C01315,47,F,South Laurieton,medium,2023-10-14,0,Both
+C01316,33,Other,Shortton,low,2021-07-14,1,Offline
+C01317,22,F,Allisonland,low,2023-07-03,1,Offline
+C01318,54,F,Christianborough,medium,2023-07-20,0,Online
+C01319,60,Other,North Jessicaside,low,2022-03-17,1,Online
+C01320,55,Other,East Alicia,medium,2021-08-21,0,Offline
+C01321,29,F,New Kara,high,2021-01-21,0,Both
+C01322,24,Other,Port Daniellestad,high,2021-10-06,1,Offline
+C01323,49,Other,Parkchester,medium,2022-11-13,0,Online
+C01324,70,M,East Lauraside,high,2023-10-03,0,Online
+C01325,60,M,Dianeside,medium,2021-09-15,1,Offline
+C01326,57,Other,Mahoneymouth,medium,2022-07-20,0,Both
+C01327,38,F,Meganchester,medium,2022-05-04,1,Offline
+C01328,63,F,Mckenziemouth,high,2023-04-02,0,Both
+C01329,50,F,New Amy,high,2022-08-03,1,Online
+C01330,41,Other,Michaelmouth,high,2021-08-05,0,Both
+C01331,53,F,Smithton,low,2021-11-26,1,Online
+C01332,33,F,New Derekport,medium,2021-03-17,1,Both
+C01333,38,Other,Traceyborough,low,2020-01-11,1,Offline
+C01334,52,M,Andrewview,medium,2023-08-22,1,Online
+C01335,30,Other,North Benjamin,low,2023-11-28,1,Offline
+C01336,27,F,East Joseph,high,2021-07-06,0,Online
+C01337,18,M,East Jonathan,medium,2023-10-13,0,Both
+C01338,49,Other,New Ricardoborough,medium,2021-04-11,0,Online
+C01339,26,Other,Lake Markfort,high,2023-02-14,1,Both
+C01340,56,F,Petersenshire,medium,2020-09-25,1,Both
+C01341,45,Other,New Dawnton,high,2023-06-27,1,Offline
+C01342,32,M,Millerton,medium,2023-02-09,0,Both
+C01343,49,Other,Michaelchester,low,2023-12-03,1,Offline
+C01344,52,Other,Port Kayleetown,low,2021-10-09,0,Both
+C01345,48,Other,Brownhaven,low,2022-09-11,1,Both
+C01346,23,M,Amberberg,medium,2020-03-04,1,Offline
+C01347,51,M,East Brent,medium,2021-05-22,0,Online
+C01348,48,Other,Maddoxshire,medium,2023-02-10,0,Both
+C01349,58,Other,East Ryanfurt,medium,2022-02-23,1,Both
+C01350,21,F,West Christopher,medium,2020-08-17,0,Offline
+C01351,47,Other,New Raymondland,high,2022-06-06,1,Offline
+C01352,40,F,Ayalaberg,low,2021-09-11,0,Both
+C01353,56,Other,South Anita,low,2023-03-29,1,Online
+C01354,58,F,Pearsonborough,medium,2022-01-27,0,Both
+C01355,36,Other,East Charles,medium,2022-05-21,1,Offline
+C01356,23,M,Morrisshire,medium,2023-04-21,1,Offline
+C01357,26,Other,Lake Robertstad,low,2020-05-19,1,Online
+C01358,65,M,West Melvin,medium,2021-06-25,0,Both
+C01359,46,F,Port Kevinstad,high,2022-10-15,1,Both
+C01360,33,F,Hansonmouth,low,2022-08-15,0,Offline
+C01361,23,M,East Gina,medium,2020-03-10,0,Offline
+C01362,66,F,North Jodibury,medium,2020-08-30,0,Both
+C01363,46,Other,Port Marissa,medium,2022-08-22,0,Both
+C01364,64,F,West Heatherville,low,2021-03-22,1,Online
+C01365,21,M,Ruizmouth,medium,2021-04-18,1,Offline
+C01366,48,Other,East Amy,high,2020-11-20,0,Offline
+C01367,61,Other,Anaberg,low,2023-03-11,1,Online
+C01368,51,F,South Brandyhaven,low,2022-12-15,1,Offline
+C01369,61,F,Georgeport,high,2020-03-08,0,Online
+C01370,52,Other,Briantown,low,2020-11-07,1,Both
+C01371,59,F,Guerrerostad,low,2020-04-13,1,Online
+C01372,34,Other,North Kellyfurt,medium,2023-09-04,1,Both
+C01373,65,M,Romeroville,medium,2020-12-25,0,Both
+C01374,39,Other,Toddside,medium,2023-11-05,0,Offline
+C01375,53,M,East Vincent,medium,2020-05-16,0,Online
+C01376,44,M,North Johnhaven,medium,2021-12-12,1,Offline
+C01377,32,Other,Tracyburgh,low,2021-04-18,0,Online
+C01378,19,Other,Gabriellestad,low,2020-01-29,0,Both
+C01379,58,M,Joelhaven,medium,2022-08-29,0,Online
+C01380,56,M,Lake Jonathanfurt,low,2021-03-04,0,Online
+C01381,62,M,New Stacybury,low,2023-10-15,1,Both
+C01382,22,Other,Pennyberg,medium,2020-08-23,1,Offline
+C01383,62,Other,Meyerbury,medium,2020-05-16,1,Offline
+C01384,28,M,New Eric,low,2021-10-10,0,Offline
+C01385,42,F,Shaneberg,high,2021-04-30,1,Offline
+C01386,29,F,New Amber,low,2020-11-17,0,Both
+C01387,43,M,Port Devin,medium,2023-05-27,0,Online
+C01388,52,F,South Wendy,low,2022-12-05,0,Offline
+C01389,63,F,Lake Sarah,low,2023-04-11,0,Online
+C01390,54,Other,West Carlos,low,2023-11-25,1,Online
+C01391,49,M,East Lonnieberg,medium,2022-04-07,0,Online
+C01392,60,F,Port Lucaschester,low,2023-02-03,1,Offline
+C01393,54,M,Scottview,medium,2021-09-30,1,Offline
+C01394,45,F,North David,high,2020-08-24,0,Both
+C01395,32,M,Catherinebury,low,2020-02-10,1,Online
+C01396,54,Other,East Grace,high,2022-07-15,1,Offline
+C01397,61,F,Lake Kimberlyberg,medium,2021-07-12,0,Offline
+C01398,52,F,Josephstad,low,2022-02-19,1,Offline
+C01399,59,M,Henryberg,low,2020-10-12,0,Offline
+C01400,60,M,East Antonio,low,2020-09-11,1,Online
+C01401,58,Other,West Stephaniebury,low,2023-04-02,0,Both
+C01402,46,Other,Port James,low,2023-02-27,0,Online
+C01403,19,Other,Camachofort,high,2020-10-02,0,Offline
+C01404,42,M,Michellebury,medium,2022-12-04,1,Offline
+C01405,52,F,Parsonsfurt,high,2021-10-26,0,Online
+C01406,39,M,Phillipshire,low,2023-01-23,0,Offline
+C01407,25,M,New Danielmouth,high,2022-07-11,1,Both
+C01408,52,M,East Aprilfurt,medium,2023-07-08,0,Online
+C01409,20,Other,New Paulton,low,2023-02-16,0,Offline
+C01410,57,M,Scottport,low,2020-10-21,0,Online
+C01411,29,Other,Stevenchester,low,2023-04-16,1,Online
+C01412,47,Other,Lake Zacharyberg,low,2021-04-02,0,Online
+C01413,25,F,Davishaven,medium,2021-12-21,0,Online
+C01414,69,M,Port Brenda,medium,2020-06-24,1,Offline
+C01415,25,Other,South Robert,medium,2023-10-21,0,Offline
+C01416,68,M,East Shawnborough,medium,2021-12-01,0,Offline
+C01417,22,M,Davismouth,low,2023-10-02,1,Online
+C01418,62,F,Lake Jessica,medium,2022-12-10,1,Online
+C01419,55,M,Lake Shannonstad,low,2020-05-21,1,Online
+C01420,19,F,Acostahaven,low,2020-05-12,0,Online
+C01421,23,Other,South Andrea,medium,2022-08-08,1,Offline
+C01422,62,F,West Ariana,medium,2020-03-09,0,Online
+C01423,58,F,East Misty,medium,2022-10-21,1,Online
+C01424,29,Other,South Kylemouth,medium,2020-10-04,0,Both
+C01425,49,Other,North Rachel,high,2021-03-24,1,Offline
+C01426,44,M,New Kathytown,medium,2020-11-11,0,Online
+C01427,51,M,Foleyside,medium,2021-12-13,0,Offline
+C01428,67,Other,New Nicolebury,medium,2023-06-08,1,Online
+C01429,30,M,Chavezmouth,medium,2020-12-02,1,Offline
+C01430,29,M,East Nicoleview,medium,2020-05-03,0,Online
+C01431,59,F,North Jack,low,2022-08-20,1,Offline
+C01432,39,Other,Benjaminton,high,2020-03-26,1,Online
+C01433,24,Other,Markland,low,2022-11-02,0,Online
+C01434,68,M,South Victoriaburgh,medium,2020-03-17,0,Online
+C01435,33,Other,Cherylshire,medium,2022-11-10,1,Offline
+C01436,30,Other,South Kara,medium,2023-05-08,1,Online
+C01437,67,M,North Kaylamouth,low,2021-07-13,0,Online
+C01438,65,F,Wilkinschester,high,2021-07-26,1,Online
+C01439,22,F,West Thomasville,medium,2023-08-03,0,Offline
+C01440,27,M,Markchester,high,2022-12-15,1,Online
+C01441,42,F,Lake Jason,low,2022-03-26,0,Both
+C01442,40,F,New Jessicahaven,low,2020-03-31,0,Online
+C01443,62,Other,Ramseyport,low,2020-05-16,0,Online
+C01444,47,F,Jordanshire,medium,2021-10-25,1,Online
+C01445,36,Other,Sarashire,low,2022-08-26,0,Both
+C01446,53,M,Vasquezburgh,low,2022-02-10,1,Online
+C01447,55,F,Lake Kelly,high,2023-10-04,1,Online
+C01448,64,F,North Andrewville,medium,2020-10-27,0,Online
+C01449,38,F,Port Christina,medium,2023-02-19,0,Both
+C01450,18,F,Williamsstad,high,2021-10-06,0,Offline
+C01451,64,Other,North Danielle,low,2022-05-20,1,Offline
+C01452,69,Other,Jonathanland,high,2022-12-07,1,Offline
+C01453,33,M,Williammouth,medium,2021-04-23,0,Both
+C01454,64,F,North Ginamouth,high,2023-04-06,0,Offline
+C01455,36,M,Port Gregorymouth,medium,2021-09-07,0,Online
+C01456,48,Other,Sandrafort,low,2023-07-19,1,Both
+C01457,65,Other,Roblesberg,low,2023-11-24,1,Offline
+C01458,67,M,Lake Steven,high,2022-01-17,1,Online
+C01459,68,F,Stevenchester,medium,2023-09-06,0,Both
+C01460,22,F,Port Adrianashire,high,2023-12-12,1,Both
+C01461,20,F,Angelatown,medium,2023-01-31,1,Both
+C01462,57,Other,Laurenstad,medium,2020-11-19,0,Both
+C01463,23,Other,West Mary,high,2020-04-12,0,Both
+C01464,61,F,Simsburgh,high,2021-06-10,0,Offline
+C01465,41,F,Lopezville,medium,2022-06-05,1,Offline
+C01466,29,Other,Janetmouth,medium,2023-09-05,0,Both
+C01467,63,M,West Robertfort,low,2023-01-07,1,Online
+C01468,52,M,West Shannon,medium,2023-09-24,0,Both
+C01469,66,M,New Kevin,low,2021-04-15,1,Both
+C01470,61,F,Kristenborough,low,2020-06-23,0,Offline
+C01471,40,F,South Williamfort,medium,2023-11-19,0,Offline
+C01472,63,Other,East Matthew,medium,2023-11-06,1,Offline
+C01473,57,F,Kimberlyberg,medium,2022-01-21,0,Online
+C01474,47,M,Port Tonihaven,low,2023-04-10,0,Offline
+C01475,22,M,East Jenny,low,2022-11-17,0,Both
+C01476,27,F,Reeveshaven,low,2021-12-14,0,Both
+C01477,58,M,West Sarahland,low,2020-06-28,0,Offline
+C01478,40,F,Smallville,medium,2021-06-01,0,Offline
+C01479,30,M,Andrewport,low,2022-03-19,0,Both
+C01480,59,F,West James,medium,2022-09-19,1,Both
+C01481,59,F,Amandamouth,medium,2021-03-21,1,Offline
+C01482,37,Other,West Edwardview,low,2022-11-08,1,Online
+C01483,68,F,New Anitaville,low,2020-06-26,1,Offline
+C01484,67,M,Andreaview,low,2020-11-16,1,Offline
+C01485,28,Other,Audreyburgh,high,2020-08-07,1,Online
+C01486,29,Other,Christinamouth,medium,2020-04-20,0,Online
+C01487,33,M,Williamstown,low,2022-04-19,1,Both
+C01488,26,F,North Patrickland,low,2022-01-01,0,Online
+C01489,53,Other,Whiteshire,low,2021-10-24,1,Offline
+C01490,27,F,Jensenport,medium,2022-09-04,0,Both
+C01491,37,M,Lake Katherine,high,2021-05-31,1,Offline
+C01492,67,M,Port Kathyshire,high,2023-06-11,1,Online
+C01493,18,Other,Port Leahmouth,medium,2020-07-23,1,Both
+C01494,63,F,Collinsmouth,medium,2020-05-31,1,Both
+C01495,60,M,East Douglas,medium,2021-12-31,1,Offline
+C01496,62,M,Robertafurt,medium,2023-10-23,0,Online
+C01497,61,Other,Kristinamouth,low,2020-10-11,0,Offline
+C01498,57,M,Johnsonfort,medium,2021-12-05,0,Offline
+C01499,21,Other,Timothyburgh,medium,2020-06-24,0,Offline
+C01500,30,M,Cassandraberg,low,2021-03-14,1,Both
+C01501,60,M,South Lisaville,high,2022-02-28,1,Online
+C01502,49,F,Port Kevinmouth,medium,2021-05-21,0,Both
+C01503,41,F,Allenbury,low,2021-09-14,1,Offline
+C01504,42,F,South Patrick,low,2022-05-01,1,Offline
+C01505,37,F,Port Heather,high,2021-06-13,0,Online
+C01506,64,F,Bradleymouth,medium,2021-10-31,1,Offline
+C01507,36,M,East Elaine,high,2022-04-25,1,Both
+C01508,44,M,Wilsonmouth,high,2020-05-01,0,Online
+C01509,31,F,Port Seanport,medium,2021-05-20,1,Online
+C01510,55,F,New Danielfurt,low,2021-09-22,1,Both
+C01511,35,F,Newmanton,low,2021-05-23,1,Both
+C01512,54,M,Port Dominic,low,2020-05-20,1,Offline
+C01513,53,F,Port Dwayneberg,low,2022-06-21,1,Both
+C01514,37,F,Petershire,medium,2021-12-04,1,Online
+C01515,19,M,East Erin,low,2021-11-25,1,Both
+C01516,58,F,Ashleyport,low,2021-05-06,1,Offline
+C01517,29,F,Robbinsstad,high,2023-11-27,0,Online
+C01518,25,F,New Valeriefurt,medium,2020-05-18,0,Both
+C01519,65,F,Port Kelly,medium,2023-08-09,1,Offline
+C01520,58,Other,North Jacquelinestad,medium,2021-07-27,0,Offline
+C01521,50,Other,Michellebury,medium,2020-06-19,1,Online
+C01522,55,M,Garrettfurt,low,2021-11-01,1,Both
+C01523,26,F,Grahamborough,low,2021-09-22,1,Offline
+C01524,44,Other,South Don,high,2022-10-26,1,Online
+C01525,36,F,Bridgesstad,medium,2022-05-12,0,Both
+C01526,30,Other,Mooreberg,low,2023-07-28,0,Both
+C01527,66,M,North Deborahberg,medium,2020-07-27,1,Both
+C01528,69,F,Barrettberg,low,2023-01-25,1,Online
+C01529,52,Other,Lake Linda,low,2020-05-11,0,Online
+C01530,26,Other,Englishchester,low,2023-08-29,1,Offline
+C01531,39,M,South William,low,2022-08-26,0,Both
+C01532,32,M,Cruzbury,medium,2022-05-07,0,Offline
+C01533,47,M,Jacobsshire,low,2020-10-15,0,Online
+C01534,48,F,Lake Walter,low,2022-02-12,1,Online
+C01535,70,F,Arthurton,high,2021-09-30,1,Online
+C01536,63,F,Bushville,low,2022-06-01,0,Online
+C01537,26,Other,Nixonland,low,2022-06-20,0,Offline
+C01538,26,M,Stevenland,low,2020-08-08,0,Offline
+C01539,62,M,East Thomasland,low,2022-03-24,1,Offline
+C01540,20,M,Chloemouth,low,2022-11-28,0,Offline
+C01541,25,F,South Shawnfort,low,2022-04-11,1,Both
+C01542,18,M,Robertport,medium,2022-06-10,0,Both
+C01543,30,M,North Heather,medium,2021-03-25,0,Online
+C01544,27,Other,Jessicashire,high,2022-07-17,1,Offline
+C01545,28,Other,Lake Thomasburgh,medium,2021-02-08,0,Both
+C01546,54,M,Lake Veronicatown,low,2022-06-08,0,Both
+C01547,31,Other,Millerhaven,low,2021-03-21,1,Online
+C01548,66,Other,Johnathanview,low,2020-04-29,0,Online
+C01549,50,Other,Alexisville,medium,2021-03-03,0,Offline
+C01550,61,M,New Joanne,low,2022-07-27,1,Offline
+C01551,45,M,Woodburgh,medium,2022-10-20,1,Online
+C01552,66,F,South Henry,low,2021-02-09,0,Both
+C01553,26,F,West Traceyberg,medium,2022-03-30,1,Both
+C01554,64,M,Port Tyler,low,2022-07-14,1,Online
+C01555,42,F,Youngmouth,medium,2021-10-03,1,Both
+C01556,46,M,East Becky,medium,2023-02-01,1,Offline
+C01557,30,M,Brianview,high,2023-07-31,1,Both
+C01558,41,M,North Garyfurt,low,2023-03-19,1,Both
+C01559,24,F,Thomasside,medium,2022-01-09,0,Online
+C01560,27,F,Vegafurt,medium,2020-12-28,0,Both
+C01561,28,M,Dustinchester,low,2022-01-07,0,Offline
+C01562,30,Other,Saramouth,high,2020-01-19,1,Online
+C01563,32,F,Suzanneton,medium,2021-08-16,1,Both
+C01564,67,Other,Stephaniechester,medium,2020-05-31,1,Offline
+C01565,48,Other,Matthewview,medium,2022-08-06,1,Offline
+C01566,50,F,West Destinyfurt,low,2023-05-31,1,Online
+C01567,25,F,Lake Emily,medium,2021-12-17,0,Both
+C01568,26,M,New Matthew,low,2023-04-11,0,Online
+C01569,49,Other,West Amy,low,2022-12-08,0,Offline
+C01570,56,Other,Port Carloschester,low,2022-11-11,1,Both
+C01571,57,M,Lake Seanbury,medium,2020-05-31,1,Offline
+C01572,30,F,Johnathanton,medium,2023-01-31,1,Both
+C01573,34,Other,North Sheenaborough,low,2020-02-06,0,Online
+C01574,45,M,Lake Susanland,low,2022-07-20,1,Offline
+C01575,46,F,South Diana,low,2023-08-23,0,Both
+C01576,60,F,North Heather,high,2023-10-29,0,Offline
+C01577,45,M,Stevenland,low,2021-01-28,1,Offline
+C01578,66,M,Livingstonview,medium,2022-09-19,1,Both
+C01579,53,Other,Schwartzmouth,medium,2023-04-10,1,Offline
+C01580,53,M,Port Charles,medium,2021-02-03,1,Offline
+C01581,49,Other,South Paulton,high,2023-04-22,1,Offline
+C01582,38,M,Gregoryland,low,2021-02-05,0,Online
+C01583,41,F,New Philip,high,2022-02-02,0,Both
+C01584,39,F,Rodriguezside,low,2022-09-29,1,Offline
+C01585,44,F,Robinsonville,low,2023-04-09,0,Online
+C01586,33,Other,Baldwinville,low,2023-11-18,0,Both
+C01587,22,F,North Ashleyview,low,2020-02-24,0,Online
+C01588,52,F,Smithfort,low,2023-04-22,1,Both
+C01589,50,F,North Elizabethview,low,2020-08-19,1,Both
+C01590,19,F,Rebeccashire,low,2020-08-23,1,Offline
+C01591,54,M,Mendozafurt,high,2020-01-06,0,Both
+C01592,61,M,New Jeremiahfurt,low,2023-08-04,1,Online
+C01593,57,F,Martinezside,low,2022-12-06,1,Online
+C01594,49,Other,Mathewport,high,2023-12-23,0,Both
+C01595,31,F,Lake Wendyland,low,2021-09-14,1,Both
+C01596,43,M,Christophermouth,medium,2021-07-21,0,Both
+C01597,55,M,Deborahburgh,medium,2023-03-27,1,Online
+C01598,54,Other,South Donnaport,medium,2022-05-11,0,Offline
+C01599,68,M,Mosleystad,medium,2022-12-17,1,Both
+C01600,69,F,Lake Samuelborough,medium,2022-01-25,1,Online
+C01601,44,F,East Anthonyshire,low,2020-08-05,1,Both
+C01602,66,Other,Priceside,low,2021-01-05,0,Both
+C01603,63,Other,Victormouth,high,2022-09-26,1,Online
+C01604,60,Other,West Brianton,high,2020-01-26,1,Both
+C01605,52,Other,East Lindsayhaven,high,2021-09-21,1,Both
+C01606,64,Other,Lake Beth,low,2021-12-13,0,Offline
+C01607,47,M,North Jillfort,low,2023-12-07,1,Offline
+C01608,44,F,South Rebeccaton,high,2022-10-12,0,Both
+C01609,31,F,North Gerald,low,2021-01-11,1,Both
+C01610,28,F,Loriville,medium,2020-03-18,0,Offline
+C01611,33,M,Port Brittany,low,2021-12-09,0,Online
+C01612,69,F,North Tylerbury,medium,2023-06-24,1,Offline
+C01613,59,M,South Matthew,low,2020-04-08,1,Online
+C01614,19,F,Nguyenshire,medium,2023-07-22,1,Both
+C01615,53,M,West Mary,medium,2022-04-28,0,Both
+C01616,49,M,Port Brandon,low,2023-05-17,0,Offline
+C01617,56,F,Bryanview,high,2020-09-26,1,Offline
+C01618,60,Other,Jacksonstad,high,2020-08-07,1,Both
+C01619,26,M,South John,low,2022-05-09,0,Both
+C01620,60,Other,East Craigfurt,high,2022-06-23,1,Offline
+C01621,23,M,North Nichole,medium,2023-04-23,1,Offline
+C01622,55,Other,North Harryland,low,2020-05-05,0,Offline
+C01623,31,M,Robertfort,low,2023-01-02,0,Offline
+C01624,46,F,East Douglas,low,2022-12-11,0,Offline
+C01625,52,F,Jenkinsburgh,medium,2021-02-24,0,Offline
+C01626,52,F,New Hectorfort,medium,2022-08-06,0,Offline
+C01627,68,M,Lake Margaretport,low,2022-08-08,1,Offline
+C01628,19,Other,Smithbury,high,2021-06-24,0,Both
+C01629,60,M,New Tiffanystad,medium,2020-10-25,0,Offline
+C01630,53,F,South Kaylee,low,2023-09-02,1,Both
+C01631,25,Other,West Brian,high,2022-10-21,1,Offline
+C01632,18,F,Lake Megan,high,2020-06-24,1,Offline
+C01633,23,M,Jimenezburgh,low,2023-11-16,0,Offline
+C01634,58,F,North Deannaport,high,2022-11-07,1,Online
+C01635,35,M,Kingmouth,high,2020-11-21,1,Offline
+C01636,65,F,Lake Brianside,high,2020-03-08,1,Both
+C01637,45,M,Port Anthony,high,2020-09-30,1,Both
+C01638,22,F,North Pattymouth,medium,2022-03-10,1,Offline
+C01639,62,M,Robertmouth,medium,2022-07-09,0,Both
+C01640,46,Other,West Jeremybury,low,2020-12-23,1,Online
+C01641,58,F,Kanefurt,low,2023-02-20,0,Online
+C01642,28,M,North Thomas,medium,2023-10-16,0,Both
+C01643,61,F,South Dustinmouth,medium,2022-01-22,1,Offline
+C01644,48,Other,Brooksmouth,low,2020-10-03,0,Both
+C01645,55,F,Lake Michael,medium,2023-01-23,0,Online
+C01646,44,F,West David,low,2021-02-22,1,Both
+C01647,32,M,West Derekmouth,high,2022-12-11,0,Online
+C01648,47,M,Jacksonmouth,low,2021-12-13,0,Online
+C01649,43,Other,Cassandraburgh,medium,2020-12-07,1,Online
+C01650,23,F,North Robert,low,2022-06-17,0,Online
+C01651,63,Other,Atkinsborough,medium,2022-03-21,1,Both
+C01652,49,M,Hoodview,low,2022-07-07,0,Online
+C01653,70,F,Fitzgeraldbury,low,2020-01-23,1,Offline
+C01654,26,F,Ryanbury,high,2021-01-19,0,Offline
+C01655,64,Other,New Rachel,low,2023-10-17,0,Offline
+C01656,68,M,North Vickiehaven,low,2021-10-10,1,Online
+C01657,57,F,Schmidtfort,high,2020-02-22,1,Both
+C01658,61,Other,South Tylerland,medium,2023-06-11,0,Offline
+C01659,26,F,Lake Jessicaborough,high,2022-05-17,1,Both
+C01660,31,Other,Kennethland,low,2020-07-25,1,Both
+C01661,56,F,Caldwellburgh,low,2020-01-25,0,Online
+C01662,39,M,Hodgeshire,medium,2022-12-28,1,Both
+C01663,60,Other,Fordberg,medium,2020-02-07,0,Online
+C01664,34,Other,Lopezstad,medium,2023-09-20,1,Offline
+C01665,60,F,Padillatown,low,2022-08-31,0,Both
+C01666,29,F,South Patriciamouth,low,2023-08-29,1,Offline
+C01667,47,M,West Ronaldview,low,2022-04-04,1,Online
+C01668,34,M,Port Gail,low,2022-12-20,0,Offline
+C01669,35,Other,Jillton,low,2022-08-21,1,Offline
+C01670,34,Other,Pamelaville,high,2022-03-10,1,Both
+C01671,38,F,Steventon,high,2021-08-17,1,Both
+C01672,49,M,Gregoryside,medium,2021-07-21,1,Online
+C01673,30,M,New Jennaborough,low,2022-12-30,0,Online
+C01674,48,F,Johnville,low,2020-08-03,1,Offline
+C01675,25,F,Mclaughlinshire,low,2022-10-05,1,Both
+C01676,53,F,Port Julie,medium,2023-09-15,0,Both
+C01677,27,M,Michaelview,low,2020-12-16,0,Offline
+C01678,29,M,Ramirezland,medium,2022-02-21,1,Both
+C01679,60,Other,Shaunhaven,low,2021-08-02,0,Both
+C01680,67,Other,South Jenniferside,low,2022-03-29,0,Online
+C01681,67,F,Shannonstad,medium,2023-10-29,1,Online
+C01682,36,Other,East Patriciamouth,high,2023-05-27,0,Offline
+C01683,41,Other,South Rachaelport,high,2020-05-15,0,Offline
+C01684,27,M,East Joshuaberg,low,2020-04-29,1,Offline
+C01685,58,F,Port James,medium,2022-02-10,0,Offline
+C01686,20,Other,West Robertside,medium,2022-09-01,1,Offline
+C01687,64,Other,South Michael,high,2023-12-18,0,Online
+C01688,21,Other,West Jaimetown,low,2021-11-20,0,Both
+C01689,22,Other,Port Stacey,high,2023-09-16,1,Online
+C01690,43,F,Robertmouth,low,2022-09-28,1,Online
+C01691,19,M,Toddhaven,low,2022-10-15,1,Offline
+C01692,59,Other,Ellisshire,low,2023-07-31,1,Offline
+C01693,69,F,Georgeview,medium,2020-07-23,1,Both
+C01694,56,M,Watsonport,low,2020-12-18,0,Offline
+C01695,50,M,East Michaelmouth,medium,2023-04-10,1,Offline
+C01696,35,Other,Lake Amanda,medium,2020-09-15,0,Offline
+C01697,69,F,Port Jean,medium,2020-10-10,1,Both
+C01698,45,M,East John,low,2023-11-06,1,Offline
+C01699,61,M,Autumnmouth,medium,2020-03-04,0,Offline
+C01700,51,Other,Jackside,medium,2021-02-08,0,Offline
+C01701,47,F,Lake Loganstad,low,2023-01-03,1,Offline
+C01702,27,M,Shaneburgh,medium,2020-08-17,1,Online
+C01703,51,F,Davidtown,low,2022-04-08,0,Both
+C01704,22,M,Mackmouth,medium,2021-09-20,1,Offline
+C01705,24,F,Ericside,medium,2023-12-12,1,Offline
+C01706,34,Other,Deborahport,low,2022-02-27,0,Online
+C01707,65,Other,Tarashire,medium,2022-01-06,0,Offline
+C01708,20,M,Port Annette,medium,2022-11-01,1,Offline
+C01709,55,Other,Morganville,medium,2023-11-09,1,Both
+C01710,69,F,Mcculloughberg,low,2023-02-10,0,Online
+C01711,29,M,West Angelbury,medium,2022-11-19,1,Both
+C01712,24,F,Christopherton,medium,2021-11-23,0,Offline
+C01713,25,M,New Alicia,low,2022-08-02,1,Offline
+C01714,62,F,Jamesland,high,2023-04-28,1,Offline
+C01715,57,Other,Rhodesland,low,2022-04-16,1,Offline
+C01716,23,M,Leemouth,low,2022-03-06,0,Online
+C01717,70,M,Lake Michaelberg,medium,2022-07-25,0,Online
+C01718,31,F,Woodstad,medium,2023-01-17,0,Offline
+C01719,58,Other,Michaelport,low,2020-01-19,1,Offline
+C01720,27,F,East Jessicamouth,medium,2021-11-23,0,Online
+C01721,27,Other,Laraport,medium,2023-02-25,1,Offline
+C01722,19,F,Chandlerchester,medium,2020-09-11,0,Offline
+C01723,54,F,East Jaredfort,low,2020-08-04,0,Online
+C01724,58,Other,Carlshire,medium,2023-09-09,1,Offline
+C01725,65,Other,Davischester,medium,2023-03-20,1,Online
+C01726,49,F,Robertside,medium,2022-09-19,1,Online
+C01727,63,M,East Jacob,medium,2021-12-18,1,Both
+C01728,38,Other,Angelaton,low,2021-08-16,1,Offline
+C01729,25,F,Maryport,medium,2023-07-02,1,Offline
+C01730,62,F,Walkertown,low,2022-02-06,1,Both
+C01731,30,F,Kevinfort,low,2020-08-27,0,Both
+C01732,32,Other,Robertfort,high,2020-07-11,1,Both
+C01733,63,Other,North David,medium,2023-11-09,1,Both
+C01734,63,F,Gambleland,high,2021-03-06,1,Offline
+C01735,69,M,Biancashire,medium,2022-07-19,1,Both
+C01736,65,M,Courtneyfort,medium,2021-11-08,0,Online
+C01737,30,M,West Williamshire,medium,2022-12-14,0,Offline
+C01738,49,F,Franciscoton,low,2020-01-28,0,Online
+C01739,40,F,Stevenberg,low,2020-08-15,0,Online
+C01740,70,Other,North Joseph,low,2021-07-09,0,Offline
+C01741,45,M,Brandonport,medium,2021-10-13,0,Both
+C01742,32,F,New Jamesburgh,low,2022-04-02,1,Offline
+C01743,67,M,New Karenside,medium,2023-04-02,1,Online
+C01744,62,Other,Margaretport,medium,2021-05-16,0,Both
+C01745,21,F,Codyshire,medium,2021-02-25,0,Online
+C01746,68,Other,North Derrick,medium,2021-06-30,0,Both
+C01747,20,Other,Kimberlychester,low,2021-03-13,0,Online
+C01748,41,M,North Jeffery,medium,2021-06-12,1,Both
+C01749,49,Other,Port Jacob,high,2022-02-20,0,Both
+C01750,41,F,South Stevenland,high,2023-10-25,0,Online
+C01751,46,F,North Timothy,medium,2020-06-30,0,Online
+C01752,69,F,Donmouth,low,2021-04-29,0,Online
+C01753,35,F,Geraldport,medium,2023-10-14,1,Offline
+C01754,58,Other,East Davidberg,low,2020-02-14,1,Online
+C01755,26,F,West David,medium,2022-12-04,1,Offline
+C01756,51,Other,South Hannahville,low,2020-07-21,0,Offline
+C01757,27,M,Port Toddchester,medium,2020-04-30,0,Online
+C01758,39,F,North Antonio,medium,2020-03-07,0,Offline
+C01759,21,F,South Davidview,medium,2022-10-21,0,Both
+C01760,21,Other,West Elizabethville,high,2020-03-08,1,Offline
+C01761,43,Other,New Jamieborough,medium,2023-04-30,1,Both
+C01762,65,F,Anthonyberg,high,2020-10-14,0,Offline
+C01763,51,Other,Stacystad,high,2023-08-07,1,Offline
+C01764,59,M,Port Vincent,high,2021-07-01,1,Both
+C01765,40,Other,New Ashley,medium,2023-02-05,0,Offline
+C01766,23,M,New Jayborough,medium,2020-06-02,1,Both
+C01767,64,Other,Port Amanda,high,2021-03-13,1,Online
+C01768,23,Other,East Samanthafort,medium,2023-01-31,1,Both
+C01769,28,M,South Emily,low,2021-07-23,1,Online
+C01770,67,F,Port Michael,medium,2020-06-15,0,Both
+C01771,21,F,Lewisbury,low,2021-08-12,1,Online
+C01772,21,Other,Port Traceyville,high,2021-09-25,1,Offline
+C01773,54,Other,New Derekstad,low,2021-12-24,1,Online
+C01774,69,Other,Angelaton,high,2022-12-30,0,Offline
+C01775,37,F,Tristanfurt,medium,2020-05-07,0,Both
+C01776,42,Other,Burkeport,medium,2021-03-16,0,Offline
+C01777,51,Other,Perezchester,low,2022-12-03,1,Offline
+C01778,24,M,Lopezland,medium,2021-03-27,1,Online
+C01779,23,M,Crosbystad,medium,2023-10-21,0,Offline
+C01780,31,F,Lake Travisville,low,2020-10-05,1,Both
+C01781,53,Other,Millsland,medium,2021-09-07,1,Both
+C01782,49,Other,South Richard,medium,2020-07-04,1,Both
+C01783,49,Other,Lake Saraburgh,high,2022-07-06,0,Online
+C01784,50,M,Theresamouth,medium,2020-04-10,1,Online
+C01785,63,Other,Martinezchester,high,2020-11-07,0,Both
+C01786,31,F,Ramirezshire,medium,2023-01-31,0,Both
+C01787,41,M,Katelynfurt,medium,2022-07-11,1,Online
+C01788,25,F,Estradafurt,medium,2021-07-07,0,Both
+C01789,27,M,Dylanmouth,low,2022-01-22,1,Offline
+C01790,36,F,West Tracybury,low,2020-06-16,0,Online
+C01791,68,Other,North Cory,medium,2022-09-03,1,Offline
+C01792,31,M,South Erikaburgh,high,2020-03-23,1,Online
+C01793,25,Other,Ericville,low,2021-08-17,0,Offline
+C01794,48,Other,Lake Karenfort,low,2023-03-26,1,Offline
+C01795,68,F,Harrisfort,medium,2023-05-16,0,Online
+C01796,50,Other,Amyside,medium,2022-01-31,1,Both
+C01797,46,M,Port Anthonychester,high,2022-04-29,1,Online
+C01798,69,Other,South Shannonfurt,medium,2023-09-29,1,Offline
+C01799,32,F,Johnsonburgh,low,2021-11-18,0,Both
+C01800,46,Other,Nicoleburgh,low,2022-05-14,0,Online
+C01801,63,M,Taylorfurt,medium,2022-02-02,1,Both
+C01802,59,M,New Emilyside,medium,2022-01-27,0,Online
+C01803,57,Other,Alvarezburgh,medium,2022-11-30,0,Both
+C01804,51,M,South Joseshire,medium,2022-02-26,0,Online
+C01805,60,Other,Katieport,low,2021-08-09,0,Offline
+C01806,68,M,North Brittanyberg,low,2021-05-12,1,Online
+C01807,69,Other,Michaelshire,medium,2023-07-24,1,Both
+C01808,20,F,Oscarchester,high,2020-02-11,0,Offline
+C01809,45,M,Robertton,medium,2021-06-20,1,Offline
+C01810,34,M,East Jimmy,low,2022-10-24,0,Both
+C01811,28,F,Lake Cameronport,low,2021-04-29,1,Online
+C01812,27,F,Geoffreyside,high,2020-06-26,0,Online
+C01813,57,F,South Dianechester,low,2021-05-21,0,Offline
+C01814,42,M,Adamsfort,low,2022-06-01,1,Offline
+C01815,34,F,West Nicholasfurt,high,2022-07-02,0,Online
+C01816,30,M,Port Tracyborough,medium,2021-05-15,0,Offline
+C01817,50,Other,Shawmouth,low,2021-06-05,0,Offline
+C01818,21,F,Michaelchester,medium,2020-09-15,1,Online
+C01819,48,M,Reidland,medium,2020-11-09,0,Online
+C01820,35,Other,West Joseph,high,2023-07-29,0,Online
+C01821,66,Other,Ballardland,medium,2021-04-06,0,Offline
+C01822,54,F,New Matthewland,medium,2023-01-19,0,Online
+C01823,41,Other,Simmonsstad,high,2022-05-29,0,Both
+C01824,45,Other,Lake Madisonhaven,medium,2023-05-21,0,Offline
+C01825,57,F,Ryanside,medium,2023-06-03,0,Online
+C01826,21,F,South Richard,low,2021-05-01,1,Both
+C01827,42,F,Powersside,high,2022-08-28,0,Both
+C01828,50,F,Lake Jacquelineburgh,low,2020-10-07,0,Offline
+C01829,23,F,Lewismouth,medium,2022-06-15,0,Both
+C01830,53,F,Michaelton,high,2021-02-20,0,Both
+C01831,50,F,West Steven,high,2022-03-22,1,Both
+C01832,34,Other,Lake Gina,medium,2021-01-08,0,Both
+C01833,38,F,Jenkinsland,low,2021-04-11,1,Online
+C01834,62,M,Port Robert,medium,2022-09-11,0,Both
+C01835,48,M,Debbieview,high,2023-07-03,0,Offline
+C01836,53,Other,South John,medium,2022-12-02,1,Both
+C01837,23,Other,North John,medium,2020-08-20,0,Both
+C01838,46,Other,Stevenside,low,2023-07-09,1,Both
+C01839,40,F,Lucaston,low,2021-11-08,0,Online
+C01840,47,F,West Derek,high,2020-11-09,1,Online
+C01841,32,Other,Donnaburgh,low,2021-02-05,1,Both
+C01842,63,F,Lake Toddtown,low,2022-09-27,1,Both
+C01843,32,M,West Carolynland,high,2020-03-26,1,Online
+C01844,35,F,Mosleyland,high,2023-10-30,0,Online
+C01845,30,Other,East Daniel,low,2021-09-08,1,Both
+C01846,50,F,New Elizabethshire,low,2023-02-14,0,Both
+C01847,65,Other,Tylerland,medium,2023-04-19,0,Online
+C01848,55,M,Port Lindsaymouth,medium,2021-01-04,0,Offline
+C01849,54,M,Shafferbury,high,2023-07-16,1,Online
+C01850,61,M,Robinsonville,high,2023-12-24,1,Both
+C01851,53,F,West Scott,low,2020-09-29,1,Both
+C01852,61,Other,South Amandaville,low,2021-01-30,1,Offline
+C01853,44,F,Wellsbury,low,2021-05-06,1,Offline
+C01854,41,Other,West Thomas,medium,2021-03-07,0,Online
+C01855,35,F,Andrewton,medium,2021-07-25,1,Online
+C01856,43,M,Lake Samanthabury,low,2023-07-31,0,Both
+C01857,32,Other,Parkerstad,medium,2021-01-27,0,Online
+C01858,30,M,New Michellemouth,low,2023-11-04,0,Both
+C01859,58,M,South Saraview,low,2021-08-26,1,Online
+C01860,55,Other,Port Katherineport,high,2021-04-12,1,Online
+C01861,24,F,South Crystal,low,2020-11-22,1,Online
+C01862,70,F,Mccormickview,medium,2023-09-28,0,Online
+C01863,67,Other,Port Kimberlyfort,medium,2023-09-07,0,Both
+C01864,46,Other,Housemouth,low,2022-01-01,0,Online
+C01865,42,F,Mcdowellville,high,2023-01-19,0,Online
+C01866,21,F,Lake Jose,low,2023-07-04,1,Online
+C01867,24,Other,Robertside,low,2020-04-13,0,Offline
+C01868,42,F,Shawntown,low,2023-02-20,1,Online
+C01869,56,Other,Lake Darlenemouth,medium,2023-03-29,1,Offline
+C01870,47,F,North Richard,high,2023-05-13,0,Offline
+C01871,59,Other,Leeland,medium,2022-09-03,1,Both
+C01872,39,Other,East Zachary,low,2020-06-21,0,Online
+C01873,56,Other,Port Brooke,low,2023-04-07,0,Both
+C01874,26,Other,Shannonberg,medium,2021-09-29,1,Offline
+C01875,48,Other,Lake Brittany,medium,2021-02-08,0,Online
+C01876,26,M,Jameschester,low,2021-05-23,1,Both
+C01877,45,Other,South Nancy,high,2021-07-25,1,Offline
+C01878,55,Other,North Stacy,medium,2023-07-20,0,Offline
+C01879,37,Other,North Terri,low,2023-12-05,1,Online
+C01880,51,Other,Jacquelineburgh,medium,2020-11-03,0,Online
+C01881,33,Other,Williamsonview,high,2020-03-18,0,Offline
+C01882,40,M,West Georgeshire,high,2020-08-19,0,Online
+C01883,39,M,Lake Aliciamouth,medium,2020-07-01,1,Both
+C01884,62,F,Wilsonborough,high,2023-07-09,1,Both
+C01885,37,F,Keithfort,low,2020-10-23,0,Offline
+C01886,68,M,South Melissa,medium,2021-08-16,0,Both
+C01887,32,Other,Port Justin,low,2022-07-21,0,Online
+C01888,48,Other,South Henry,medium,2022-11-17,1,Both
+C01889,42,M,North Kelly,medium,2023-05-16,0,Offline
+C01890,18,M,New Shannon,low,2021-02-10,0,Online
+C01891,36,F,Brandimouth,low,2021-01-20,1,Online
+C01892,19,M,South Deanmouth,low,2020-05-13,0,Online
+C01893,34,Other,Mcdanielfurt,low,2022-12-12,0,Online
+C01894,30,M,Fitzgeraldview,low,2023-01-05,1,Online
+C01895,19,Other,New Brianmouth,low,2020-04-23,0,Offline
+C01896,31,F,South Rebekah,medium,2023-12-17,1,Offline
+C01897,60,M,North Jonfurt,high,2022-07-30,1,Both
+C01898,22,M,Lambertberg,low,2021-04-14,0,Online
+C01899,30,Other,New Harryburgh,low,2023-10-18,1,Offline
+C01900,56,F,Conradmouth,high,2022-02-21,0,Online
+C01901,66,Other,West Jenniferchester,medium,2020-07-23,1,Online
+C01902,38,M,Darrylton,low,2020-08-08,1,Online
+C01903,50,Other,Savageview,high,2020-07-17,0,Both
+C01904,23,F,Saraport,medium,2023-03-07,0,Online
+C01905,50,F,Chloeview,medium,2023-11-03,1,Offline
+C01906,51,F,Ryanburgh,low,2022-03-14,1,Both
+C01907,62,F,Gallagherberg,medium,2021-05-05,1,Offline
+C01908,35,Other,Brownberg,medium,2022-05-13,0,Online
+C01909,32,M,East Barry,medium,2020-03-25,0,Offline
+C01910,31,F,Lake Tanner,medium,2021-02-08,1,Both
+C01911,28,F,Williamsstad,low,2020-06-29,0,Online
+C01912,66,M,Ellisville,low,2023-01-06,1,Online
+C01913,55,M,North Michael,medium,2023-08-06,1,Offline
+C01914,46,F,Henryburgh,medium,2020-11-12,1,Offline
+C01915,38,F,Annashire,low,2023-03-10,0,Offline
+C01916,32,F,New Katieburgh,medium,2020-11-25,1,Online
+C01917,36,Other,East Kaylaville,medium,2021-10-08,0,Offline
+C01918,32,M,Anthonyville,low,2023-10-10,1,Online
+C01919,52,M,Brittanyville,low,2021-09-04,1,Offline
+C01920,37,Other,Ericland,high,2023-07-24,1,Online
+C01921,63,Other,Gibsonview,high,2021-12-15,1,Online
+C01922,67,F,West Taramouth,low,2022-07-12,1,Offline
+C01923,43,Other,East Michelle,medium,2021-05-19,0,Offline
+C01924,59,Other,Marcuston,high,2023-05-30,0,Offline
+C01925,32,M,New Stephaniefurt,medium,2023-03-01,0,Offline
+C01926,32,Other,Scottbury,medium,2020-05-23,1,Both
+C01927,70,F,Davisborough,low,2023-04-12,0,Offline
+C01928,30,F,Chanport,medium,2020-09-10,1,Online
+C01929,46,F,North Kenneth,high,2022-10-02,0,Offline
+C01930,26,Other,Fitzgeraldport,high,2023-05-29,1,Both
+C01931,18,F,West Elizabeth,high,2023-11-04,1,Offline
+C01932,32,F,Williamfort,medium,2023-07-16,1,Both
+C01933,52,F,Alvarezshire,low,2021-11-22,0,Both
+C01934,68,M,Davischester,high,2022-07-21,0,Offline
+C01935,54,Other,Christinachester,medium,2023-06-13,1,Offline
+C01936,31,F,Davishaven,low,2022-09-06,1,Online
+C01937,48,M,Rhodesberg,low,2021-06-14,1,Both
+C01938,37,M,Rosehaven,low,2023-12-16,0,Online
+C01939,70,Other,Taylorland,medium,2020-05-10,0,Online
+C01940,30,M,Evansberg,high,2023-11-10,1,Offline
+C01941,31,M,Mckenziehaven,low,2022-11-29,0,Offline
+C01942,21,F,Ashleyside,medium,2021-10-26,0,Offline
+C01943,44,F,New Danielchester,low,2020-04-28,0,Online
+C01944,52,F,South Donnashire,medium,2021-10-03,0,Offline
+C01945,31,M,Michaelshire,high,2023-06-16,1,Offline
+C01946,70,Other,North Joymouth,medium,2020-05-07,0,Both
+C01947,54,F,Port Phillip,medium,2020-10-05,1,Offline
+C01948,30,M,Mcdowellport,high,2020-05-09,1,Online
+C01949,70,F,Toddmouth,medium,2021-05-02,0,Both
+C01950,39,Other,Matthewburgh,high,2022-08-27,1,Offline
+C01951,54,M,North Julie,medium,2020-11-23,1,Both
+C01952,47,F,Monicaville,medium,2022-07-27,1,Offline
+C01953,57,M,North Randalltown,medium,2021-11-04,0,Both
+C01954,64,F,Stevensfurt,medium,2020-09-23,0,Both
+C01955,54,M,Turnerstad,low,2023-09-11,0,Online
+C01956,28,F,Ballardland,high,2022-12-08,1,Both
+C01957,22,Other,North James,medium,2020-07-13,0,Offline
+C01958,44,Other,Lake Taratown,low,2023-06-21,1,Online
+C01959,66,M,Wongbury,medium,2020-11-21,1,Offline
+C01960,46,M,North Kevin,low,2021-11-07,0,Offline
+C01961,19,M,South Robert,medium,2021-12-20,1,Offline
+C01962,39,Other,East Joanne,low,2020-06-29,0,Offline
+C01963,20,M,Ruizmouth,low,2021-11-22,0,Offline
+C01964,60,Other,East Kenneth,medium,2022-06-28,1,Online
+C01965,23,Other,Williamstown,medium,2023-07-12,1,Online
+C01966,48,F,Pettyfort,high,2020-06-08,0,Online
+C01967,56,M,Benjaminfurt,low,2023-02-19,0,Both
+C01968,65,F,Hallton,low,2022-01-25,0,Both
+C01969,35,M,South Barbaraside,medium,2022-03-31,0,Online
+C01970,63,M,Patriciachester,high,2020-04-08,0,Offline
+C01971,62,M,Wilsonstad,high,2023-10-13,0,Offline
+C01972,62,F,Smithport,medium,2021-11-27,0,Online
+C01973,67,F,South Maurice,medium,2023-02-02,0,Offline
+C01974,33,M,New Regina,low,2020-12-26,1,Online
+C01975,18,F,Andersonport,high,2021-06-10,0,Online
+C01976,24,Other,Moyerstad,low,2023-01-28,0,Online
+C01977,44,Other,Marshburgh,low,2023-05-21,1,Offline
+C01978,53,Other,West Hannah,low,2022-08-23,0,Both
+C01979,43,F,Andersonborough,low,2020-05-13,0,Online
+C01980,40,F,Garciachester,low,2020-08-30,1,Both
+C01981,38,M,Jimmyside,low,2022-02-05,1,Online
+C01982,22,Other,West Nicolestad,high,2020-03-14,1,Online
+C01983,22,M,East Maria,medium,2022-11-17,1,Online
+C01984,63,Other,Port Brycechester,medium,2023-10-21,0,Offline
+C01985,24,Other,North Anna,low,2020-06-26,1,Both
+C01986,67,Other,Victoriastad,low,2022-01-25,0,Both
+C01987,66,Other,Port Natalieview,low,2023-04-10,1,Online
+C01988,39,M,Port Hannah,medium,2023-10-24,1,Offline
+C01989,50,Other,Lake Brentmouth,medium,2022-03-11,0,Online
+C01990,19,Other,Estesville,medium,2023-05-26,0,Offline
+C01991,33,Other,Port Annahaven,medium,2020-06-13,0,Both
+C01992,23,M,Lake David,low,2020-06-12,1,Offline
+C01993,30,M,Ericport,low,2020-11-15,0,Online
+C01994,64,Other,Gillfort,high,2023-01-05,1,Both
+C01995,39,M,East Deborahmouth,low,2023-02-11,0,Both
+C01996,68,F,North Melinda,medium,2023-06-26,1,Online
+C01997,32,Other,Hammondtown,low,2021-11-13,0,Online
+C01998,52,M,Petersonhaven,high,2021-01-16,0,Both
+C01999,62,Other,West Nathanchester,low,2020-09-23,1,Both
+C02000,38,M,East Karen,medium,2021-07-14,0,Online
